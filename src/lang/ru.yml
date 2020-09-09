@@ -16,7 +16,7 @@ HOLO_DONATE:
 - '§fНаш онлайн-магазин:'
 - '§6§lHOUPMINE.RU'
 
-ITEMS_LOBBY_SELECTOR_NAME: '§eВыбор режима §7(ПКМ)'
+ITEMS_LOBBY_SELECTOR_NAME: '§eВыбор режима §7(ПКМ'
 ITEMS_LOBBY_SELECTOR_LORE:
 - '§7Выбор режима - тут вы сможете'
 - '§7выбрать сервер на который пойти!'
