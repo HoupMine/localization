@@ -1,1 +1,34 @@
 LANGUAGE_CHANGE: '§6Server §8| §fYour language has been changed to §c%s'
+
+LIST_CMD: '%s§fOn the server §a%s §f%s: %s'
+
+MONEY_1:
+- 'coin'
+- 's'
+- 's'
+- 's'
+MONEY_2:
+- 'coin'
+- 's'
+- 's'
+- 's'
+PLAYERS_1:
+- 'player'
+- 's'
+- 's'
+- 's'
+TIME_SECOND_1:
+- 'second'
+- 's'
+- 's'
+- 's'
+KEYS_1:
+- 'key'
+- 's'
+- 's'
+- 's'
+GOLD_1:
+- 'gold'
+- 's'
+- 's'
+- 's'
