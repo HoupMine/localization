@@ -32,3 +32,10 @@ GOLD_1:
 - 's'
 - 's'
 - 's'
+
+LVL_UP: '§a§l§kX§r §6§lLEVEL UP §a§l§kX§r'
+NEW_LVL: '§fYou received §d%s§f level!'
+EXP_TO_NEW_LVL: '§fYou need §a%s§f more XP to the next level'
+GET_REWARD: '§7Go to the profile to get your reward'
+LEVEL_COMMAND_1: '§6Leveling §8| §fYou have §d%s§f level'
+LEVEL_COMMAND_2: '§6Leveling §8| §fYou need §a%s§f more XP to the next level'
