@@ -39,6 +39,9 @@ BOX_MONEY: '§aМонеты §f(§6+%s§f)'
 
 ITEM_ALREADY_HAVE: '§fУ вас уже есть данный предмет, вы получили §6+%s %s'
 
+ENABLE: 'Включено'
+DISABLE: 'Отключено'
+
 COOLDOWN: '§cПодождите %s %s перед следующим использованием'
 COOLDOWN_2: '§cПодождите %s перед следующим использованием'
 COOLDOWN_SEND_MESSAGE: '§cПодождите %s перед следующим использованием оффлайн сообщений (если вы будете писать друзьями, то лимита не будет)'
@@ -444,3 +447,61 @@ HIDER_DISABLE_LORE:
 - '§7чтобы скрыть игроков'
 TITLE_JOIN_LOBBY: '§fГолосовой чат сервера!'
 SUBTITLE_JOIN_LOBBY: '§9Discord §ddiscord.houpmine.ru'
+
+LOBBY_SETTINGS_AUTO_MESSAGE_ANNOUNCE_NAME: 'Автосообщения'
+LOBBY_SETTINGS_AUTO_MESSAGE_ANNOUNCE_LORE:
+- '§7Позволяет включить или выключить'
+- '§7автосообщения на всем сервере'
+LOBBY_SETTINGS_UNAVAILABLE:
+- ''
+- '§cНедоступно!'
+- '§7Доступно от %s §7и выше'
+LOBBY_SETTINGS_HUB_GLOWING_NAME: 'Подсветка'
+LOBBY_SETTINGS_HUB_GLOWING_LORE:
+- '§7Позволяет включить или выключить'
+- '§7подсветку своего "скина" в лобби'
+LOBBY_SETTINGS_BLOOD_NAME: 'Кровь'
+LOBBY_SETTINGS_BLOOD_LORE:
+- '§7Позволяет включить или выключить'
+- '§7кровь во время игры'
+LOBBY_SETTINGS_FLY_NAME: 'Полет'
+LOBBY_SETTINGS_FLY_LORE:
+- '§7Позволяет включить или выключить'
+- '§7полет в главном лобби и в лобби'
+- '§7ожидания старта игры'
+LOBBY_SETTINGS_HIDER_NAME: 'Скрытие игроков'
+LOBBY_SETTINGS_HIDER_LORE:
+- '§7Позволяет включить или выключить'
+- '§7скрытие игроков в лобби'
+LOBBY_SETTINGS_CHAT_NAME: 'Чат'
+LOBBY_SETTINGS_CHAT_LORE:
+- '§7Позволяет включить или выключить'
+- '§7возможность писать или читать чат'
+LOBBY_SETTINGS_VK_LEAK_NAME: 'Вконтакте'
+LOBBY_SETTINGS_VK_LEAK_LORE:
+- '§7Позволяет включить или выключить'
+- '§7отображение вашего VK другим игрокам'
+- '§7по команде §f/vk <ник>'
+LOBBY_SETTINGS_BOARD_NAME: 'Скорборд'
+LOBBY_SETTINGS_BOARD_LORE:
+- '§7Позволяет включить или выключить'
+- '§7отображение скорбордов справа'
+- '§7во всех лобби'
+LOBBY_SETTINGS_HOLOCHAT_NAME: 'Чат голограмма'
+LOBBY_SETTINGS_HOLOCHAT_LORE:
+- '§7Позволяет включить или выключить'
+- '§7отображение голограммы над игроком,'
+- '§7которая содержит то, что он написал'
+LOBBY_SETTINGS_PRIVATE_MESSAGE_NAME: 'Личные сообщения'
+LOBBY_SETTINGS_PRIVATE_MESSAGE_LORE:
+- '§7Позволяет включить или выключить'
+- '§7личные сообщения'
+- ''
+- '§cВНИМАНИЕ! §7Ваши друзья все равно'
+- '§7смогут вам писать, даже если вы'
+- '§7отключите личные сообщения'
+LOBBY_SETTINGS_DONATE_CHAT_NAME: 'Чат донатеров'
+LOBBY_SETTINGS_DONATE_CHAT_LORE:
+- '§7Позволяет включить или выключить'
+- '§7чат донатеров §f/dc'
+- '§7через весь сервер'
