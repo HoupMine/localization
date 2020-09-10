@@ -79,6 +79,9 @@ ITEMS_LOBBY_PROFILE_LORE:
 
 FW: '§aСалют!'
 
+ERROR_COMMAND: '§cОшибка, пишите %s'
+ERROR_COMMAND_IN_GAME: '%s§cДанная команда недоступна во время игры'
+
 MONEY_1:
 - 'монет'
 - 'а'
