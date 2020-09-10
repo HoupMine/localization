@@ -122,6 +122,80 @@ GET_REWARD: '§7Зайдіть в профіль, щоб забрати свою
 LEVEL_COMMAND_1: '§6Ігровий рівень §8| §fУ вас §d%s§f рівень' 
 LEVEL_COMMAND_2: '§6Ігровий рівень §8| §fДо наступного рівня необхідно набрати §a%s§f досвіду'
 
+PROFILE_MAIN_GUI_NAME: 'Профіль' 
+PROFILE_MAIN_ITEM_PLAYER_NAME: '§bЗагальна інформація'
+PROFILE_MAIN_ITEM_LEVEL_NAME: 'Рівень' 
+PROFILE_MAIN_ITEM_LEVEL_LORE: 
+- '§7Граючи на сервері, ви отримуєте' 
+- '§7ігровий досвід, який необхідний' 
+- '§7для підняття вашого рівня' 
+- '§7і отримання особливих нагород.' 
+- '' 
+- '§7Рівень: §d%s %s §6%s'
+- '' 
+- '§7До наступного рівня: §a%s XP'
+- '' 
+- '§e▸ Відкрити меню нагород' 
+PROFILE_MAIN_ITEM_INFO_NAME: 'Інформація' 
+PROFILE_MAIN_ITEM_INFO_LORE: 
+- '§7Корисна інформація для' 
+- '§7гри на сервері' 
+- '' 
+- '§e▸ Відкрити меню інформації' 
+PROFILE_MAIN_ITEM_STATS_NAME: 'Статистика' 
+PROFILE_STATS_GUI_NAME: 'Статистика' 
+PROFILE_STATS_GUI_NAME2: 'Статистика гравця' 
+PROFILE_MAIN_ITEM_STATS_LORE: 
+- '§7Ігрова статистика' 
+- '§7з усіх режимів' 
+- '' 
+- '§7Для §c§lMAGMA §7і вище' 
+- '§7доступна команда - §f/stats <нік>' 
+- '' 
+- '§e▸ Відкрити меню статистики' 
+PROFILE_MAIN_ITEM_DONATE_NAME: 'Привілегії' 
+PROFILE_MAIN_ITEM_DONATE_LORE: 
+- '§7Детальна інформація про можливості' 
+- '§7Привілегії і їх покупки' 
+- '' 
+- '§e▸ Відкрити меню привілегій' 
+
+PROFILE_MAIN_ITEM_LANG_NAME: 'Зміна мови'
+
+PROFILE_MAIN_ITEM_LANG_LORE2: 
+- '' 
+- '§cПереклад і мови будуть доповнюватися!' 
+- '' 
+- '§e▸ Відкрити меню мов' 
+PROFILE_MAIN_ITEM_SETTINGS_NAME: 'Налаштування'
+PROFILE_MAIN_ITEM_SETTINGS_LORE: 
+- '§7Персональні налаштування'
+- ''
+- '§e▸ Відкрити меню налаштувань'
+PROFILE_DONATE_MENU_NAME: 'Донат меню'
+PROFILE_DONATE_MENU_LORE:
+- '§7Кастомізація гравця на ігрових'
+- '§7аренах. Ви зможете вибрати колір префікса,'
+- '§7ефекти стріл, передсмертний хрип'
+- '§7і багато іншого.'
+- ''
+- '§e▸ Відкрити донат меню'
+PROFILE_LANG_ITEM_LORE1: '§7Змінити мову на %s'
+PROFILE_LANG_ITEM_LORE2: '§e▸ Натисніть, щоб змінити мову'
+PROFILE_LANG_ITEM_LORE3: '§aВибраний'
+PROFILE_BACK_ITEM_NAME: '§cНазад'
+PROFILE_BACK_ITEM_LORE:
+- '§7Натисніть, щоб повернутися в головне меню'
+PROFILE_BACK_ITEM_LORE2:
+- '§7Натисніть, щоб повернутися на крок назад'
+ITEMS_LOBBY_ENABLE_LORE:
+- '§7Натисніть, щоб вимкнути'
+ITEMS_LOBBY_DISABLE_LORE:
+- '§7Натисніть, щоб увімкнути'
+ITEMS_GUI_BACK_NAME: '§cНазад'
+ITEMS_GUI_BACK_LORE:
+  - '§7Натисніть, щоб вернутися в попереднє меню'
+
 BLACK: 'Черний'
 DARK_BLUE: 'Синiй'
 DARK_GREEN: 'Зелений'
