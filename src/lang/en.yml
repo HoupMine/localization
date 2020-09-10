@@ -2,6 +2,39 @@ LANGUAGE_CHANGE: '§6Server §8| §fYour language has been changed to §c%s'
 
 LIST_CMD: '%s§fOn the server §a%s §f%s: %s'
 
+HOLO_INFO_LOBBY:
+- 'Click on §6NPC'
+- 'to start playing §7[LMB]'
+- 'or find out more like §7 [RMB]'
+HOLO_DONATE:
+- '§fSupport the server, buy donate!'
+- '§e§lGOLD §f- §649 §fRubbles'
+- '§b§lDIAMOND §f- §6149 §fRubbles'
+- '§a§lEMERALD §f- §6289 §fRubbles'
+- '§c§lMAGMA §f- §6399 §fRubbles'
+- '§%s§lSHULKER §f- §6859 §fRubbles'
+- '§fOur online store:'
+- '§6§lHOUPMINE.RU'
+
+ITEMS_LOBBY_SELECTOR_NAME: '§eMode selection §7(RMB)'
+ITEMS_LOBBY_SELECTOR_LORE:
+- '§7Mode selection - here you can'
+- '§7choose the server to go to!'
+- ''
+- '§e§oOpen §f§o[Right-Click]'
+ITEMS_LOBBY_GADGETS_NAME: '§eCosmetics §7(RMB)'
+ITEMS_LOBBY_GADGETS_LORE:
+- '§7Cosmetics - you can buy'
+- '§7various things for entertainment in the lobby'
+- ''
+- '§e§oOpen §f§o[Right-Click]'
+ITEMS_LOBBY_PROFILE_NAME: '§eProfile §7(RMB)'
+ITEMS_LOBBY_PROFILE_LORE:
+- '§7Profile - here is the'
+- '§7most important player information!'
+- ''
+- '§e§oOpen §f§o[Right-Click]'
+
 MONEY_1:
 - 'coin'
 - 's'
