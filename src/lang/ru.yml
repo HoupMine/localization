@@ -1,5 +1,8 @@
 LANGUAGE_CHANGE: '§6Сервер §8| §fВаш язык изменен на: §c%s'
 
+UNKNOWN_SUBCOMMAND: '§cЭтой команды не существует О_о'
+HELP_PAPER_FOR: '§e▸ Подкоманды для %s:'
+
 NO_PERMS: '§cУ вас нет прав'
 NO_PERMS_GROUP: '§cУ вас нет прав, купите %s§c или выше'
 NO_PERMS_SHULKER_ONLY: '§cУ вас нет прав, данная функция только для §7§lSHULKER'
