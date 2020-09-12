@@ -213,7 +213,7 @@ LEVEL_REWARD_COSMETIC:  '§8+ %s §7иігрова косметика'
 LEVEL_REWARD_GADGET: '§8+ %s §7гаджет'
 LEVEL_REWARD_ANTICHEAT: '§8+ §7Імунітет до деяких перевірок античита!'
 LEVEL_REWARD_SENDMONEY: '§8+ §7Приймати і відправляти гроші через §f/sendmoney'
-LEVEL_REWARD_VK: '§8+ §7Писати оффлайн гравцеві у якого прив'язаний §9VK'
+LEVEL_REWARD_VK: '§8+ §7Писати оффлайн гравцеві у якого привязаний §9VK'
 LEVEL_REWARD_NAME: 'Нагорода за %s рівень'
 LEVEL_REWARD_LORE1:
 - '§7За досягнення §f%s §7рівня ви отримаєте:'
