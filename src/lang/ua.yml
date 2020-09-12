@@ -488,7 +488,7 @@ LOBBY_SETTINGS_FLY_LORE:
 - '§7очікування старту гри'
 LOBBY_SETTINGS_HIDER_NAME: 'Приховування гравців'
 LOBBY_SETTINGS_HIDER_LORE:
-- '§7Дозволяє увімкнути або вимкнути
+- '§7Дозволяє увімкнути або вимкнути'
 - '§7приховування гравців в лоббі'
 LOBBY_SETTINGS_CHAT_NAME: 'Чат'
 LOBBY_SETTINGS_CHAT_LORE:
