@@ -206,6 +206,25 @@ ITEMS_LOBBY_DISABLE_LORE:
 ITEMS_GUI_BACK_NAME: '§cНазад'
 ITEMS_GUI_BACK_LORE:
   - '§7Натисніть, щоб вернутися в попереднє меню'
+LEVEL_NO_LEVEL: '§cПомилка, ваш рівень занадто малий для отримання даної нагороди!'
+LEVEL_ALREADY_GIVE: '§cПомилка, ви вже отримали цю нагороду!'
+LEVEL_NO_OTHER_REWARD: '§cПомилка, перед отриманням цієї нагороди ви зобов'язані отримати всі попередні!'
+LEVEL_REWARD_COSMETIC:  '§8+ %s §7иігрова косметика'
+LEVEL_REWARD_GADGET: '§8+ %s §7гаджет'
+LEVEL_REWARD_ANTICHEAT: '§8+ §7Імунітет до деяких перевірок античита!'
+LEVEL_REWARD_SENDMONEY: '§8+ §7Приймати і відправляти гроші через §f/sendmoney'
+LEVEL_REWARD_VK: '§8+ §7Писати оффлайн гравцеві у якого прив'язаний §9VK'
+LEVEL_REWARD_NAME: 'Нагорода за %s рівень'
+LEVEL_REWARD_LORE1:
+- '§7За досягнення §f%s §7рівня ви отримаєте:'
+LEVEL_REWARD_LORE2:
+- ' '
+- '§e▸Отримати нагороду'
+LEVELING_WAIT_REWARD: '§6Сервер §8| §fУ вас є §a%s§f нагород, які ви не забрали. Щоб їх забрати, напишіть §7/profile§f і перейдіть у вкладку §bрівень'
+LEVELING_LOAD_NAME: '§cІнформація завантажується...'
+LEVELING_LOAD_LORE:
+- '§7Інформація про ваших рівнях завантажується'
+- '§7або нагороди відсутні зовсім...'
 
 BLACK: 'Черний'
 DARK_BLUE: 'Синiй'
