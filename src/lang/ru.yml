@@ -138,6 +138,7 @@ LEVEL_COMMAND_2: '§6Игровой уровень §8| §fДо следующе
 
 BOARD_MONEY: 'Монет'
 BOARD_GOLD: 'Золота'
+BOARD_LEVEL: 'Уровень'
 BOARD_KEYS: 'Ключей'
 BOARD_GLOBAL_ONLINE: 'Онлайн проекта'
 BOARD_BUSTER: 'Активный бустер'
