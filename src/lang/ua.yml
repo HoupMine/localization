@@ -126,6 +126,15 @@ GET_REWARD: '§7Зайдіть в профіль, щоб забрати свою
 LEVEL_COMMAND_1: '§6Ігровий рівень §8| §fУ вас §d%s§f рівень' 
 LEVEL_COMMAND_2: '§6Ігровий рівень §8| §fДо наступного рівня необхідно набрати §a%s§f досвіду'
 
+BOARD_MONEY: 'Монет'
+BOARD_GOLD: 'Золота'
+BOARD_KEYS: 'Ключів'
+BOARD_GLOBAL_ONLINE: 'Онлайн проекту'
+BOARD_GROUP: 'Ваш ранг'
+BOARD_DISCORD: 'Діскорд'
+BOARD_SHOP: 'Магазин'
+BOARD_VK: 'ВКонтакті'
+
 PROFILE_MAIN_GUI_NAME: 'Профіль' 
 PROFILE_MAIN_ITEM_PLAYER_NAME: '§bЗагальна інформація'
 PROFILE_MAIN_ITEM_PLAYER_LORE:
