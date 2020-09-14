@@ -85,6 +85,16 @@ ITEMS_LOBBY_PROFILE_LORE:
 
 FW: '§aСалют!'
 
+#Новый Год
+HOLIDAY_HEAD_FOUND_TITLE: '§6§lПоздравляем!'
+HOLIDAY_HEAD_FOUND_SUBTITLE: '§fВы нашли подарок §a%s§f/§c%s'
+HOLIDAY_HEAD_FOUND_ALL_TITLE: '§a§lС Новым Годом!'
+HOLIDAY_HEAD_FOUND_ALL_SUBTITLE: '§6Вы нашли все подарки!'
+HOLIDAY_HEAD_FOUND_COUNT: 'Найдено подарков: §a%s§f/§a%s'
+HOLIDAY_HEAD_FOUND_COUNT_BOARD: 'Найдено подарков: §a'
+HOLIDAY_COUNTDOWN: 'Новый Год через: §a'
+ENCHANT_TITLE: 'Чары'
+
 ERROR_COMMAND: '§cОшибка, пишите %s'
 ERROR_COMMAND_IN_GAME: '%s§cДанная команда недоступна во время игры'
 
