@@ -126,6 +126,17 @@ GET_REWARD: '§7Зайдите в профиль, чтобы получить с
 LEVEL_COMMAND_1: '§6Игровой уровень §8| §fУ вас §d%s§f уровень'
 LEVEL_COMMAND_2: '§6Игровой уровень §8| §fДо следующего уровня необходимо набрать §a%s§f опыта'
 
+BOARD_MONEY: 'Монет'
+BOARD_GOLD: 'Золота'
+BOARD_KEYS: 'Ключей'
+BOARD_GLOBAL_ONLINE: 'Онлайн проекта'
+BOARD_BUSTER: 'Активный бустер'
+BOARD_NO_BUSTER: '§c▻ §7Активных бустеров нет'
+BOARD_GROUP: 'Ваш ранг'
+BOARD_DISCORD: 'Дискорд'
+BOARD_SHOP: 'Магазин'
+BOARD_VK: 'ВКонтакте'
+
 PROFILE_MAIN_GUI_NAME: 'Профиль'
 PROFILE_MAIN_ITEM_PLAYER_NAME: '§bОбщая информация'
 PROFILE_MAIN_ITEM_PLAYER_LORE:
