@@ -128,6 +128,7 @@ LEVEL_COMMAND_2: '§6Ігровий рівень §8| §fДо наступног
 
 BOARD_MONEY: 'Монет'
 BOARD_GOLD: 'Золота'
+BOARD_LEVEL: 'Рівень'
 BOARD_KEYS: 'Ключів'
 BOARD_GLOBAL_ONLINE: 'Онлайн проекту'
 BOARD_GROUP: 'Ваш ранг'
