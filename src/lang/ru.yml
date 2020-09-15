@@ -531,8 +531,8 @@ SHOP_LORE_FIXED_ITEM_SELL:
 - '§7чтобы продать все %s'
 - ''
 - '§e▸ Нажмите, чтобы продать'
-SHOP_GUIBUY_NAME: 'Покупка %s'
-SHOP_GUISELL_NAME: 'Продажа %s'
+SHOP_GUI_BUY_NAME: 'Покупка %s'
+SHOP_GUI_SELL_NAME: 'Продажа %s'
 SHOP_ITEM_BUY_LORE:
 - ''
 - '§7Цена покупки §c%s'
