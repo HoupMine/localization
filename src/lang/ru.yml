@@ -420,7 +420,7 @@ AUCTION_COMMAND_ERROR2: '§cОшибка, кол-во предметов для 
 AUCTION_COMMAND_ERROR3: '§cОшибка, вы не можете продать данный айтем пока он находится во 2й руке'
 AUCTION_ADD_TO_SELL: '§6Аукцион §8| §fПредмет §7%s §fбыл выложен на продажу за §a%s'
 AUCTION_ADD_TO_SELL_ERROR: '§6Аукцион §8| §fОшибка, в вашей руке недостаточное кол-во предметов'
-AUCTION_ITEM_ALLREADY_SELLED: '§6Аукцион §8| §fОшибка, предмет был продан, сожалеем...'
+AUCTION_ITEM_ALREADY_SOLD: '§6Аукцион §8| §fОшибка, предмет был продан, сожалеем...'
 AUCTION_NO_MONEY: '§6Аукцион §8| §fОшибка, у вас недостаточно денег для покупки предмета'
 AUCTION_BUY_YOU_ERROR: '§6Аукцион §8| §fОшибка, вы не можете купить сами у себя...'
 AUCTION_BUY: '§6Аукцион §8| §fВы успешно купили §7%s §fx §7%s §fза §a%s$'
@@ -533,7 +533,7 @@ SHOP_LORE_FIXED_ITEM_SELL:
 - '§e▸ Нажмите, чтобы продать'
 SHOP_GUIBUY_NAME: 'Покупка %s'
 SHOP_GUISELL_NAME: 'Продажа %s'
-SHOP_ITEMBUY_LORE:
+SHOP_ITEM_BUY_LORE:
 - ''
 - '§7Цена покупки §c%s'
 SHOP_ITEM_NO_MONEY:
@@ -542,7 +542,7 @@ SHOP_ITEM_NO_MONEY:
 SHOP_ITEM_NO_ITEMS:
 - ''
 - '§cОшибка, у вас недостаточно предметов'
-SHOP_ITEMSELL_LORE:
+SHOP_ITEM_SELL_LORE:
 - ''
 - '§7Получите после продажи §a%s'
 SHOP_NAME_REMOVE_1: '§cУстановить 1'
