@@ -837,6 +837,8 @@ SHOP_NOT_FOUND: '§cОшибка, магазин %s не найден'
 SHOP_ALL_ITEMS_SELLED: '§6Магазин §8| §fВы успешно продали §7%s §fx §7%s §fза §a%s$'
 SHOP_ALL_ITEMS_BUY: '§6Магазин §8| §fВы успешно купили §7%s §fx §7%s §fза §a%s$'
 
+HOVER: ' §7(наведи сюда)'
+
 REWARD_YOU_GOT_REWARDS: '§fВы успешно получили следующие награды:'
 MONEY_REWARD_LOCALE: ' §7+ §6%s §f%s'
 # GOLD_REWARD_LOCALE: ' §7+ §e%s §f%s'
