@@ -1059,6 +1059,275 @@ HIDER_DISABLE_LORE:
 TITLE_JOIN_LOBBY: '§fГолосовой чат сервера!'
 SUBTITLE_JOIN_LOBBY: '§9Discord §ddiscord.houpmine.ru'
 
+ACHIEVEMENT_DONE: '§eВыполнено'
+ACHIEVEMENT_NO_DONE: '§cНе выполнено'
+ACHIEVEMENT_PERCENT: '§7Выполнено: §c%s'
+ISLAND_ACHIEVEMENT_NAME: 'Достижения'
+ISLAND_ACHIEVEMENT_LORE:
+- '§7Список всех достижений'
+- '§7на этом режиме'
+- ' '
+- '§7Выполнено: §f%s§7/§c%s'
+- ' '
+- ' §e▸ Нажмите, чтобы открыть список'
+ISLAND_ACHIEVEMENT_GUI_NAME: 'Настройки острова ▸ Достижения'
+ISLAND_GENERATOR_UPGRADE: 'Улучшение генератора'
+ISLAND_GENERATOR_UPGRADE_LEVEL:
+- '§7Текующий уровень генератора: §a%s'
+- '§7Максимальный уровень генератора: §c%s'
+- '§7В данный момент он дает:'
+ISLAND_GENERATOR_UPGRADE_MAX:
+- '§7У вас максимальный уровень генератора: §a%s'
+- '§7В данный момент он дает:'
+ISLAND_GENERATOR_UPGRADE_LEVEL_CLICK:
+- ''
+- '§7Цена: §ax%s изумурудных блоков'
+- ''
+- ' §e▸ Нажмите, чтобы купить'
+ISLAND_BUY_BEACON_ALERT: '§6SkyBlock §8| §fИгрок %s §fкупил эффект маяка §7%s §fза §e%s §f%s'
+ISLAND_BUY_GENERATOR: '§6SkyBlock §8| §fИгрок %s §fулучшил генератор для вашего острова до §a%s §fуровня'
+ISLAND_DEFAULT_GENERATOR_LORE: '§8 • §7100% булыжник'
+ISLAND_FIRST_GENERATOR_LORE:
+- '§8 • §73% угольная руда'
+- '§8 • §71% железная руда'
+- '§8 • §71% изумрудная руда'
+ISLAND_SECOND_GENERATOR_LORE:
+- '§8 • §73% угольная руда'
+- '§8 • §71.5% железная руда'
+- '§8 • §71% золотая руда'
+- '§8 • §71% изумрудная руда'
+ISLAND_THIRD_GENERATOR_LORE:
+- '§8 • §73% угольная руда'
+- '§8 • §71.5% железная руда'
+- '§8 • §71% золотая руда'
+- '§8 • §71% кварцевая руда'
+- '§8 • §70.5% редстоун'
+- '§8 • §71% изумрудная руда'
+ISLAND_FOURTH_GENERATOR_LORE:
+- '§8 • §74% угольная руда'
+- '§8 • §72% железная руда'
+- '§8 • §71.5% золотая руда'
+- '§8 • §71% кварцевая руда'
+- '§8 • §70.5% лазурит'
+- '§8 • §70.5% редстоун'
+- '§8 • §71% изумрудная руда'
+ISLAND_FIFTH_GENERATOR_LORE:
+- '§8 • §75% угольная руда'
+- '§8 • §72.5% железная руда'
+- '§8 • §71.5% золотая руда'
+- '§8 • §71% кварцевая руда'
+- '§8 • §70.5% алмазная руда'
+- '§8 • §70.5% редстоун'
+- '§8 • §70.5% лазурит'
+- '§8 • §71% изумрудная руда'
+ISLAND_SIXTH_GENERATOR_LORE:
+- '§8 • §76% угольная руда'
+- '§8 • §72.5% железная руда'
+- '§8 • §72% золотая руда'
+- '§8 • §71% кварцевая руда'
+- '§8 • §70.5% редстоун'
+- '§8 • §70.5% лазурит'
+- '§8 • §71% алмазная руда'
+- '§8 • §71% изумрудная руда'
+ACHIEVEMENT_COMPLETE: '§a§l§kX§r §6§lАЧИВКА ВЫПОЛНЕНА §a§l§kX§r'
+INVENTORY_IS_FULL: '§cОшибка, ваш инвентарь заполнен'
+ISLAND_ACHIEVEMENT_START_NAME: 'Старт'
+ISLAND_ACHIEVEMENT_START_LORE:
+- '§7Создать остров 1-й раз'
+ISLAND_ACHIEVEMENT_RESTART_NAME: 'Пересоздать'
+ISLAND_ACHIEVEMENT_RESTART_LORE:
+- '§7Пересоздать свой остров'
+ISLAND_ACHIEVEMENT_CRAFT_NAME: 'Скрафтить предметы'
+ISLAND_ACHIEVEMENT_COBBLE_WALL_LORE:
+- '§8 • §7Стена из булыжника §fх24'
+ISLAND_ACHIEVEMENT_TORCH_LORE:
+- '§8 • §7Факела §fх30'
+ISLAND_ACHIEVEMENT_SMOOTH_BRICK_LORE:
+- '§8 • §7Каменных кирпичей §fх64'
+ISLAND_ACHIEVEMENT_ARMOR_STAND_LORE:
+- '§8 • §7Стоек для брони §fх10'
+ISLAND_ACHIEVEMENT_WOOD_STAIRS_LORE:
+- '§8 • §7Дубовых ступенек §fх20'
+ISLAND_ACHIEVEMENT_WOOD_STEP_LORE:
+- '§8 • §7Деревянных плит §fх20'
+ISLAND_ACHIEVEMENT_SIGN_LORE:
+- '§8 • §7Табличек §fх10'
+ISLAND_ACHIEVEMENT_LEVER_LORE:
+- '§8 • §7Рычагов §fх10'
+ISLAND_ACHIEVEMENT_WOOD_PLATE_LORE:
+- '§8 • §7Деревянных напорных пластин §fх10'
+ISLAND_ACHIEVEMENT_STONE_PLATE_LORE:
+- '§8 • §7Каменных напорных пластин §fх10'
+ISLAND_ACHIEVEMENT_WOOD_BUTTON_LORE:
+- '§8 • §7Деревянных кнопок §fх10'
+ISLAND_ACHIEVEMENT_STONE_BUTTON_LORE:
+- '§8 • §7Каменных кнопок §fх10'
+ISLAND_ACHIEVEMENT_FERMENTED_SPIDER_EYE_LORE:
+- '§8 • §7Ферментированных глаз пауков §fх10'
+ISLAND_ACHIEVEMENT_PAINTING_LORE:
+- '§8 • §7Картины §fх10'
+ISLAND_ACHIEVEMENT_CARROT_STICK_LORE:
+- '§8 • §7Удочку с морковью §fх1'
+ISLAND_ACHIEVEMENT_BREAD_LORE:
+- '§8 • §7Хлеба §fх10'
+ISLAND_ACHIEVEMENT_HAY_BLOCK_LORE:
+- '§8 • §7Блоков сена §fх30'
+ISLAND_ACHIEVEMENT_REDSTONE_LAMP_OFF_LORE:
+- '§8 • §7Редстоун ламп §fх10'
+ISLAND_ACHIEVEMENT_PUMPKIN_PIE_LORE:
+- '§8 • §7Тыквенных пирогов §fх8'
+ISLAND_ACHIEVEMENT_BEETROOT_SOUP_LORE:
+- '§8 • §7Свекольных супов §fх10'
+ISLAND_ACHIEVEMENT_BRICK_LORE:
+- '§8 • §7Блоков из красного кирпича §fх64'
+ISLAND_ACHIEVEMENT_LAPIS_BLOCK_LORE:
+- '§8 • §7Лазуритных блоков §fх64'
+ISLAND_ACHIEVEMENT_CONCRETE_POWDER_LORE:
+- '§8 • §7Цемента §fх8'
+ISLAND_ACHIEVEMENT_DIODE_LORE:
+- '§8 • §7Повторителей §fх32'
+ISLAND_ACHIEVEMENT_PISTON_BASE_LORE:
+- '§8 • §7Поршней §fх10'
+ISLAND_ACHIEVEMENT_COMPASS_LORE:
+- '§8 • §7Компасов §fх5'
+ISLAND_ACHIEVEMENT_TNT_LORE:
+- '§8 • §7TNT §fх10'
+ISLAND_ACHIEVEMENT_QUARTZ_BLOCK_LORE:
+- '§8 • §7Кварцевых блоков §fх64'
+ISLAND_ACHIEVEMENT_REDSTONE_COMPARATOR_LORE:
+- '§8 • §7Компараторов §fх24'
+ISLAND_ACHIEVEMENT_BEACON_LORE:
+- '§8 • §7Маяк §fх1'
+ISLAND_ACHIEVEMENT_SLIME_BLOCK_LORE:
+- '§8 • §7Слаймовый блок §fх1'
+ISLAND_ACHIEVEMENT_EMPTY_MAP_LORE:
+- '§8 • §7Пустых карт §fх10'
+ISLAND_ACHIEVEMENT_ENCHANTMENT_TABLE_LORE:
+- '§8 • §7Стол зачарования §fх1'
+ISLAND_ACHIEVEMENT_BOOKSHELF_LORE:
+- '§8 • §7Книжных полок §fх32'
+ISLAND_ACHIEVEMENT_BONE_BLOCK_LORE:
+- '§8 • §7Костяных блоков §fх20'
+ISLAND_ACHIEVEMENT_FURNACE_LORE:
+- '§8 • §7Печь §fх1'
+ISLAND_ACHIEVEMENT_GOLDEN_APPLE_LORE:
+- '§8 • §7Золотое яблоко §fх1'
+ISLAND_ACHIEVEMENT_BREAK_NAME: 'Сломать блоки'
+ISLAND_ACHIEVEMENT_OBSIDIAN_LORE:
+- '§8 • §7Обсидиан §fх32'
+ISLAND_ACHIEVEMENT_FURNACE_NAME: 'Переплавить'
+ISLAND_ACHIEVEMENT_GLASS_LORE:
+- '§8 • §7Стекло §fх32'
+ISLAND_ACHIEVEMENT_GOLD_INGOT_LORE:
+- '§8 • §7Золотых слитков §fх64'
+ISLAND_ACHIEVEMENT_IRON_INGOT_LORE:
+- '§8 • §7Железных слитков §fх64'
+ISLAND_ACHIEVEMENT_BAKED_POTATO_LORE:
+- '§8 • §7Картошки §fх32'
+ISLAND_ACHIEVEMENT_GENERATOR_NAME: 'Создать генератор'
+ISLAND_ACHIEVEMENT_GENERATOR_LORE:
+- '§7Постройте генератор булыжника'
+- '§7и добудьте булыжник'
+ISLAND_ACHIEVEMENT_BREED_NAME: 'Размножьте'
+ISLAND_ACHIEVEMENT_COW_LORE:
+- '§8 • §7Коров §fх2'
+ISLAND_ACHIEVEMENT_SHEEP_LORE:
+- '§8 • §7Овец §fх2'
+ISLAND_ACHIEVEMENT_CHICKEN_LORE:
+- '§8 • §7Куриц §fх2'
+ISLAND_ACHIEVEMENT_PIG_LORE:
+- '§8 • §7Свиней §fх2'
+LOBBY_SETTINGS_AUTO_MESSAGE_ANNOUNCE_NAME: 'Автосообщения'
+LOBBY_SETTINGS_AUTO_MESSAGE_ANNOUNCE_LORE:
+- '§7Позволяет включить или выключить'
+- '§7автосообщения на всем сервере'
+LOBBY_SETTINGS_UNAVAILABLE:
+- ''
+- '§cНедоступно!'
+- '§7Доступно от %s §7и выше'
+LOBBY_SETTINGS_HUB_GLOWING_NAME: 'Подсветка'
+LOBBY_SETTINGS_HUB_GLOWING_LORE:
+- '§7Позволяет включить или выключить'
+- '§7подсветку своего "скина" в лобби'
+LOBBY_SETTINGS_BLOOD_NAME: 'Кровь'
+LOBBY_SETTINGS_BLOOD_LORE:
+- '§7Позволяет включить или выключить'
+- '§7кровь во время игры'
+LOBBY_SETTINGS_FLY_NAME: 'Полет'
+LOBBY_SETTINGS_FLY_LORE:
+- '§7Позволяет включить или выключить'
+- '§7полет в главном лобби и в лобби'
+- '§7ожидания старта игры'
+LOBBY_SETTINGS_HIDER_NAME: 'Скрытие игроков'
+LOBBY_SETTINGS_HIDER_LORE:
+- '§7Позволяет включить или выключить'
+- '§7скрытие игроков в лобби'
+LOBBY_SETTINGS_CHAT_NAME: 'Чат'
+LOBBY_SETTINGS_CHAT_LORE:
+- '§7Позволяет включить или выключить'
+- '§7возможность писать или читать чат'
+LOBBY_SETTINGS_VK_LEAK_NAME: 'Вконтакте'
+LOBBY_SETTINGS_VK_LEAK_LORE:
+- '§7Позволяет включить или выключить'
+- '§7отображение вашего VK другим игрокам'
+- '§7по команде §f/vk <ник>'
+LOBBY_SETTINGS_BOARD_NAME: 'Скорборд'
+LOBBY_SETTINGS_BOARD_LORE:
+- '§7Позволяет включить или выключить'
+- '§7отображение скорбордов справа'
+- '§7во всех лобби'
+LOBBY_SETTINGS_HOLOCHAT_NAME: 'Чат голограмма'
+LOBBY_SETTINGS_HOLOCHAT_LORE:
+- '§7Позволяет включить или выключить'
+- '§7отображение голограммы над игроком,'
+- '§7которая содержит то, что он написал'
+LOBBY_SETTINGS_PRIVATE_MESSAGE_NAME: 'Личные сообщения'
+LOBBY_SETTINGS_PRIVATE_MESSAGE_LORE:
+- '§7Позволяет включить или выключить'
+- '§7личные сообщения'
+- ''
+- '§cВНИМАНИЕ! §7Ваши друзья все равно'
+- '§7смогут вам писать, даже если вы'
+- '§7отключите личные сообщения'
+LOBBY_SETTINGS_FRIENDS_REQUEST_NAME: 'Приглашения в друзья'
+LOBBY_SETTINGS_FRIENDS_REQUEST_LORE:
+- '§7Позволяет включить или выключить'
+- '§7возможность принимать запросы'
+- '§7на дружбу'
+LOBBY_SETTINGS_PARTY_REQUEST_NAME: 'Приглашения в Party'
+LOBBY_SETTINGS_PARTY_REQUEST_LORE:
+- '§7Позволяет включить или выключить'
+- '§7возможность приглашать вас в Party'
+- ''
+- '§cВНИМАНИЕ! §7Ваши друзья все равно'
+- '§7смогут вас пригласить'
+LOBBY_SETTINGS_GUILD_REQUEST_NAME: 'Приглашения в гильдии'
+LOBBY_SETTINGS_GUILD_REQUEST_LORE:
+- '§7Позволяет включить или выключить'
+- '§7возможность приглашать вас в гильдии'
+LOBBY_SETTINGS_DONATE_CHAT_NAME: 'Чат донатеров'
+LOBBY_SETTINGS_DONATE_CHAT_LORE:
+- '§7Позволяет включить или выключить'
+- '§7чат донатеров §f/dc'
+- '§7через весь сервер'
+LOBBY_SERVER_NOT_FOUND_NAME: '§cНет запущенных серверов'
+LOBBY_SERVER_NOT_FOUND_LORE:
+- '§7В данный момент нет'
+- '§7ни одного сервера, где'
+- '§7идет игра'
+LOBBY_SERVER_SPECTATE_LORE:
+- '§7Карта: §b%s'
+- '§7Онлайн: §a%s§7/§c%s'
+- ''
+- '§e§e▸ Нажмите, чтобы наблюдать за игрой'
+ISLAND_FLAG_ENTITY_GRIEF_NAME: 'Гриферство мобов'
+ISLAND_FLAG_ENTITY_GRIEF_LORE:
+- ''
+- '§7Если надоедливые мобы'
+- '§7постоянно воруют блоки,'
+- '§7то данный флаг решит'
+- '§7все ваши проблемы'
+
 LOBBY_SETTINGS_AUTO_MESSAGE_ANNOUNCE_NAME: 'Автосообщения'
 LOBBY_SETTINGS_AUTO_MESSAGE_ANNOUNCE_LORE:
 - '§7Позволяет включить или выключить'
