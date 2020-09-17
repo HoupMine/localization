@@ -162,6 +162,8 @@ BOARD_ACHIEVEMENT: 'Выполнено достижений'
 BOARD_OWNER: 'Владелец'
 BOARD_RANK_YOU: 'Ваш ранг'
 
+REGION_NOT_FOUND: 'Не найден'
+
 PROFILE_MAIN_GUI_NAME: 'Профиль'
 PROFILE_MAIN_ITEM_PLAYER_NAME: '§bОбщая информация'
 PROFILE_MAIN_ITEM_PLAYER_LORE:
