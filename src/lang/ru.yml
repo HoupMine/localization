@@ -1931,6 +1931,13 @@ JOIN_MESSAGE_LORE:
 JOIN_MESSAGE_LORE_SELECT: '§aСообщение выбрано'
 JOIN_MESSAGE_LORE_NOT_SELECT: '§e▸ Нажмите, чтобы выбрать'
 JOIN_MESSAGE_LORE_NOT_AVAILABLE: '§cДанное сообщение вам не доступно'
+GADGETS_GIVE_MONEY: '§7Цена: §6%s монет'
+GADGETS_GIVE_DONATE: '§7От привилегии %s §7и выше'
+GADGETS_GIVE_DONATE_ONLY: '§7Бесплатно для %s'
+GADGETS_GIVE_GOLD: '§7Цена: §e%s §7золота'
+GADGETS_GIVE_BOX: '§7Выпадает из §bСундука удачи §7(%s§7)'
+GADGETS_GIVE_LEVEL: '§7При достижении §d%s §7уровня'
+GADGETS_GIVE_SITE: '§7Купить на сайте §bhoupmine.ru'
 
 MYSTERY_DUST_DATA: 'Монеты'
 GOLD_DATA: 'Золото'
