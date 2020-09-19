@@ -14,7 +14,12 @@ PING: '§6Сервер §8| §fВаш пинг §a%s §fms'
 RARITY: 'Редкость'
 
 UNKNOWN: 'Неизвестно'
+ANSWER_YES: 'Да'
+ANSWER_NO: 'Нет'
 ABSENT: 'Отсутствует'
+REMOVED: '§cУдалено'
+
+JOIN_PLAYER_LO_LOBBY: ' §a‣ %s §fзашел на сервер'
 
 NO_FOUND_PLAYER: '§cИгрок %s§c не найден или он оффлайн'
 NO_NEVER_PLAYER: '§cОшибка, игрок %s никогда прежде не играл на нашем проекте'
