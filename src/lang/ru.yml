@@ -1606,8 +1606,8 @@ ISLAND_ACHIEVEMENT_LORE:
 - ' '
 - ' §e▸ Нажмите, чтобы открыть список'
 ISLAND_ACHIEVEMENT_GUI_NAME: 'Настройки острова ▸ Достижения'
-ISLAND_GENERATOR_UPGRADE: 'Улучшение генератора'
-ISLAND_GENERATOR_UPGRADE_LEVEL:
+ISLAND_GENERATOR_GUI_NAME: 'Улучшение генератора'
+ISLAND_GENERATOR_LORE_ENABLED:
 - '§7Текующий уровень генератора: §a%s'
 - '§7Максимальный уровень генератора: §c%s'
 - '§7В данный момент он дает:'
