@@ -1226,6 +1226,7 @@ ISLAND_DELETE_MEMBER_ERROR2: '§6SkyBlock §8| §cОшибка, данный и�
 ISLAND_LEAVE: '§6SkyBlock §8| §fВы покинули остров игрока %s'
 ISLAND_LEAVE_OWNER: '§6SkyBlock §8| §cОшибка, вы не можете покинуть свой же остров'
 ISLAND_DESTROY_COOLDOWN: '§6SkyBlock §8| §cВы не можете так часто делать рестарт острова, вам придется подождать %s'
+ISLAND_COMMAND_ADD_MONEY_FORMAT: '/island addmoney <сумма>'
 SKYBLOCK_CHOISED_GUI_NAME: 'Выбор острова'
 SKYBLOCK_UPGRADE_GUI_NAME: 'Улучшения'
 ISLAND_RESET: '§6SkyBlock §8| §fВаш остров был очищен и пересоздан'
