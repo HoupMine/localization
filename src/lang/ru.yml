@@ -330,7 +330,6 @@ PREFIX_CHANGE_LORE2:
 - ''
 - '§aПрефикс выбран'
 
-
 #дата
 TIME_HOURS_1:
 - 'час'
@@ -628,6 +627,101 @@ CALL_INVITE_3: ' §fДля отмены запроса пиши §c'
 CALL_INVITE_4: ' §fУ вас есть §a120 §fсекунд, чтобы его принять'
 TPTOGGLE_ENABLE: 'Телепортации - §aвключены'
 TPTOGGLE_DISABLE: 'Телепортации - §cотключены'
+
+#skyblock holo
+#todo
+SKYBLOCK_SHOP_BLOCKS: 'Магазин блоков'
+SKYBLOCK_SHOP_FARMING: 'Магазин фермерства'
+SKYBLOCK_SHOP_RES: 'Магазин ресурсов'
+SKYBLOCK_SHOP_OTHER: 'Магазин разного'
+SKYBLOCK_SHOP_LOOT: 'Магазин дропа'
+SKYBLOCK_SHOP_EXCHANGER: 'Магазин обменник'
+SKYBLOCK_SHOP_CUSTOM: 'Магазин редкостей'
+PTIME_GUI_NAME: 'Смена времени'
+PTIME_ITEM_LORE:
+- ''
+- '§7Управление погодой и'
+- '§7личным временем на этом'
+- '§7режиме'
+- ''
+- '§7Только для %s §7и выше'
+- ''
+- '§e▸ Нажмите, чтобы открыть меню'
+PTIME_ERROR: '§cОшибка, вы должны вводить число'
+PTIME: 'Время установлено на §a%s'
+PTIME_RESET: 'Время и погода сброшены до серверного'
+PTIME_ITEM_WEATHER_NAME: '§aСменить погоду'
+PTIME_ITEM_WEATHER_LORE:
+- ''
+- '§7Сменить погоду'
+- '§7на §c%s §7(только для себя)'
+- ''
+- '§7Только для %s §7и выше'
+- ''
+- '§e▸ Нажмите, чтобы сменить'
+RAINY: дождь
+SUNNY: ясно
+PTIME_WEATHER_CHANGED: 'Погода изменена'
+PTIME_ITEM_RESET_NAME: '§aОбнулить время'
+PTIME_ITEM_RESET_LORE:
+- ''
+- '§7Вернуть игроку серверное'
+- '§7время и погоду'
+- ''
+- '§e▸ Нажмите, чтобы сменить'
+PTIME_ITEM_WATCH_NAME: '§aСменить время'
+PTIME_ITEM_WATCH_LORE:
+- ''
+- '§7Установить личное время'
+- '§7игрока на §c%s '
+- ''
+- '§7Только для %s §7и выше'
+- ''
+- '§e▸ Нажмите, чтобы сменить'
+DAY: день
+NIGHT: ночь
+MORNING: утро
+
+GROUP_CHANGES_BROADCAST: '§cМодерация §8| §f%s §7обновил донат-группу игрока %s'
+
+MESSAGE_FORMAT: '§c/msg <ник> <сообщение>'
+IGNORE_FORMAT: '§c/ignore <ник>'
+REPLY_FORMAT: '§c/reply <сообщение>'
+SENT_MESSAGE_FORMAT: ' §6ЛС §8| §6Я §8-> §6%s §8| §f%s'
+RECIEVED_MESSAGE_FORMAT: ' §6ЛС §8| §6%s §8-> §6Я §8| §f%s'
+MESSAGE_CHAT_HOVER:
+- '§fНажмите сюда, чтобы еще раз написать'
+- '§fигроку %s §fв лс'
+REPLY_PLAYER_OFFLINE: '§cВам никто не писал'
+STAFFCHAT_FORMAT: '/staffchat <сообщение>'
+DONATECHAT_FORMAT: '/donatechat <сообщение>'
+STAFFCHAT_MSG: '§eЧат персонала §8| §f%s §8» §f%s'
+DONATECHAT_MSG: '§6Чат донатеров §8| §f%s §8» §7%s'
+YOU_HAVE_DONATECHAT_COOLDOWN: '§cПисать в чат донатеров можно раз в 30 секунд'
+CANT_MESSAGE_YOURSELF: '§cВы не можете написать самому себе'
+STAFFCHAT_ENABLED: '§cМодерация §8| §f%s §7снова видит чат персонала'
+STAFFCHAT_DISABLED: '§cМодерация §8| §f%s §7теперь не видит чат персонала'
+DONATECHAT_ENABLED: '§aВы снова видите донат-чат'
+DONATECHAT_TOGGLE: '§6Чат донатеров §8| %s'
+YOU_DISABLED_DONATECHAT: '§cВы отключили чат донатеров. Чтобы написать туда, включите его в личных настройках'
+YOU_DISABLED_STAFFCHAT: '§cВы отключили чат персонала. Чтобы писать в него, напишите /sc toggle'
+GROUP_COMMAND_HELP:
+- '§7/group clear <ник>§f - снятие привилегии'
+- '§7/group migrate <старый ник> <новый ник>§f - перенос привилегии'
+- '§7/group set <ник> <донат-группа> §f- обновить привилегию'
+YOU_CANT_CHANGE_DONATE: '§cВы не можете управлять привилегиями данного игрока'
+GROUP_PLAYER_ALREADY_DEFAULT: '§cУ данного игрока нет привилегии'
+GROUP_PLAYER_GROUP_CHANGED: '§eИгроку %s §eбыла установлена привилегия %s'
+YOU_CANT_IGNORE_YOURSELF: '§cВы не можете добавить в список игнорируемых самого себя'
+ALREADY_AT_LOBBY: '§cВы уже в главном лобби'
+NO_LOBBY_FOUND: '§cХаб не найден'
+REDIRECTED_TO_LOBBY: '§aВы были телепортированы на %s'
+DO_NOT_SPAM: ' §cℹ Не флудите'
+DO_NOT_SEND_SIMILAR_MESSAGES: ' §cℹ Не повторяйте одинаковые сообщения'
+ONLINE_PLAYERS_ONLINE: '§6Онлайн §8| §fОнлайн указанных режимов §a%s §f%s'
+ONLINE_ALL_PLAYERS_ONLINE: '§6Онлайн §8| §fОбщий онлайн проекта §a%s §f%s'
+GROUP_SET_FORMAT: '/group set <ник> <донат-группа>'
+GROUP_INVALID: '§cВы указали неверную группу. Доступные группы: §fDEFAULT, GOLD, DIAMOND, EMERALD, MAGMA, SHULKER'
 
 AUCTION_SHOW_FORMAT: '/ah show <ник>'
 AUCTION_ITEM_LORE:
