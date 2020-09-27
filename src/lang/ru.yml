@@ -682,6 +682,44 @@ DAY: день
 NIGHT: ночь
 MORNING: утро
 
+FRIENDS_ADD_FORMAT: /f add <ник игрока>
+FRIENDS_REMOVE_FORMAT: /f remove <ник друга>
+FRIENDS_ACCEPT_FORMAT: /f accept <ник игрока>
+FRIENDS_DECLINE_FORMAT: /f decline <ник игрока>
+FRIENDS_TP_FORMAT: /f tp <ник друга>
+HELP_FRIENDS:
+- '§7/friends add <ник игрока> §f- добавить игрока в друзья'
+- '§7/friends remove <ник игрока> §f- удалить игрока из друзей'
+- '§7/friends accept <ник игрока> §f- принять запрос игрока в друзья'
+- '§7/friends decline <ник игрока> §f- отклонить запрос игрока в друзья'
+- '§7/friends requests §f- список запросов в друзья'
+- '§7/friends list §f- список друзей'
+- '§7/friends tp <ник игрока> §f- телепортация на сервер друга'
+- '§7/friends party §f- отправить всем друзьям онлайн приглашение в Party'
+FRIENDS_YOURSELF_AS_FRIEND: '§cВы не можете отправить заявку в друзья самому себе'
+FRIENDS_ALREADY_FRIENDS: '§cВы уже являетесь друзьями!'
+FRIENDS_PLAYER_REMOVED: '§6Друзья §8| §fИгрок %s §fбыл удален из вашего списка друзей'
+FRIENDS_PLAYER_REMOVED_YOU: '§6Друзья §8| §fИгрок %s §fудалил Вас из друзей.'
+FRIENDS_ONLINE: '§6Друзья §8| §fВ онлайне §a%d §f%s'
+FRIENDS_INVITE_SENT: '§6Друзья §8| §fЗапрос в друзья отправлен игроку %s'
+FRIENDS_ALREADY_SENT_REQUEST: '§cВы уже отправляли запрос в друзья данному игроку...'
+FRIENDS_INVITE_EVENT_CANCELLED: '§cДанный игрок запретил отправлять ему запросы в друзья'
+FRIENDS_INVITE_TEXT: '§6Друзья §8| §fИгрок %s §fотправил Вам запрос в друзья. Он будет автоматически отклонен через 5 минут'
+FRIENDS_INVITE_EXPIRED: '§cЗапрос, отправленный игроку %s §fбыл автоматически отклонен'
+FRIENDS_DONT_HAVE_INVITES_FROM: '§cУ вас нет запросов в друзья от игрока %s'
+FRIENDS_NEW_FRIEND: '§6Друзья §8| §fПоздравляем! Вы стали друзьями с игроком %s'
+FRIEND_NEW_INVITE: '%s §fпредлагает вам дружить §7(общих %s)'
+FRIENDS_YOU_REJECTED_REQUEST: '§6Друзья §8| §fВы отклонили запрос в друзья от игрока %s'
+FRIENDS_REQUEST_REJECTED: '§6Друзья §8| §fИгрок %s §fотклонил Ваш запрос в друзья'
+FRIEND_JOINED: '§6Друзья §8| §fВаш друг %s §fзашел в игру §7(нажмите сюда)'
+FRIEND_JOINED_HOVER: '§fНажмите, чтобы написать игроку %s §fсообщение'
+PARTY_REQUEST_SENT_TO_FRIENDS: '§6Друзья §8| §fЗапрос в группу отправлен всем друзьям онлайн'
+YOU_SHOULD_LEAVE_YOUR_PARTY: '§cОшибка, Вы должны быть создателем группы в которой состоите. Для использования команды покиньте текущую группу - /party leave'
+YOU_HAVE_NO_ONLINE_FRIENDS: '§cОшибка, у Вас нет онлайн друзей'
+YOU_HAVE_GUILD_MUTE: '§cЧат гильдии заблокирован для Вас игроком %s по причине %s, времени осталось: %s'
+YOU_WERE_GUILD_MUTED: '§c%s §cзаблокировал Вам чат гильдии по причине %s на %s'
+YOU_WERE_GUILD_UNMUTED: '§aВам был разблокирован доступ к чату гильдии'
+
 GROUP_CHANGES_BROADCAST: '§cМодерация §8| §f%s §7обновил донат-группу игрока %s'
 
 MESSAGE_FORMAT: '§c/msg <ник> <сообщение>'
