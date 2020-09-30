@@ -1041,6 +1041,7 @@ TPACCEPT_ERROR: 'У вас нет ожидающих заявок'
 TPACCEPT_ERROR_PLAYER: 'У вас нет ожидающих заявок от игрока %s'
 TPDENY: 'Вы отклонили запрос на телепортацию от игрока %s'
 TPDENY_YOU: 'Игрок %s §fотклонил ваш запрос на телепортирацию'
+ALTERNATE_GUI_NAME: 'Меню'
 MYWARP_ITEM_CHANGER_NAME: 'Личные варпы'
 MYWARP_ITEM_CHANGER_LORE:
 - ''
