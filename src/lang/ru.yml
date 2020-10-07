@@ -1803,6 +1803,10 @@ ISLAND_FLAG_DROP_LEAVES_NAME: 'Опадение листвы'
 ISLAND_FLAG_SPAWN_MOB_NAME: 'Спавн мобов'
 ISLAND_FLAG_INVINCIBLE_NAME: 'Неуязвимость'
 ISLAND_FLAG_FIRE_SPREAD_NAME: 'Распространение огня'
+ISLAND_FLAG_ENTITY_GRIEF_NAME: 'Гриферство мобов'
+ISLAND_FLAG_SNOW_NAME: 'Образование снега'
+ISLAND_FLAG_TRANSPORT_NAME: 'Транспорт'
+ISLAND_FLAG_VILLAGERS_NAME: 'Торговля'
 ISLAND_FLAG_PVP_LORE:
 - ''
 - '§7Позволяет включить или'
@@ -1867,6 +1871,23 @@ ISLAND_FLAG_FIRE_SPREAD_LORE:
 - '§7Позволяет включить или'
 - '§7отключить распространение'
 - '§7огня на территории острова'
+ISLAND_FLAG_ENTITY_GRIEF_LORE:
+- ''
+- '§7Если надоедливые мобы'
+- '§7постоянно воруют блоки,'
+- '§7то данный флаг решит'
+- '§7все ваши проблемы'
+ISLAND_FLAG_SNOW_LORE:
+- ''
+- '§7Разрешить/Запретить образование'
+- '§7снега на острове'
+ISLAND_FLAG_TRANSPORT_LORE:
+- ''
+- '§7Разрешить/запретить использовать как транспорт вагонетки,'
+- '§7лодки, свиней и лошадей'
+ISLAND_FLAG_VILLAGERS_LORE:
+- ''
+- '§7Разрешить/запретить торговаться с жителями'
 ISLAND_FLAG_NOT_USED_GUI:
 - '§cДоступен для %s §cи выше'
 - '§c(должен быть у владельца острова)'
@@ -2612,13 +2633,6 @@ LOBBY_SERVER_SPECTATE_LORE:
 - '§7Онлайн: §a%s§7/§c%s'
 - ''
 - '§e§e▸ Нажмите, чтобы наблюдать за игрой'
-ISLAND_FLAG_ENTITY_GRIEF_NAME: 'Гриферство мобов'
-ISLAND_FLAG_ENTITY_GRIEF_LORE:
-- ''
-- '§7Если надоедливые мобы'
-- '§7постоянно воруют блоки,'
-- '§7то данный флаг решит'
-- '§7все ваши проблемы'
 AVAILABLE_SERVER_NOT_FOUND: '§6Сервер §8| §fНе удалось найти подходящий сервер'
 LOBBY_DISABLED_MESSAGE_TO_CHAT: '§cОшибка, вы не можете писать в чат, т.к. вы его отключили!'
 FAST_MESSAGE_GO: 'Гоу'
