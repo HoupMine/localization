@@ -1,5 +1,7 @@
 LANGUAGE_CHANGE: '§6Сервер §8| §fВаш язык изменен на: §c%s'
 
+CRASH_FORMAT: '/crash <ник игрока>'
+
 UNKNOWN_SUBCOMMAND: '§cЭтой команды не существует О_о'
 HELP_PAPER_FOR: '§e▸ Подкоманды для %s:'
 
@@ -86,6 +88,9 @@ ITEMS_LOBBY_GADGETS_LORE:
 ITEMS_LOBBY_PROFILE_NAME: '§eПрофиль игрока'
 ITEMS_LOBBY_PROFILE_LORE:
 - '§7Полезная информация'
+
+CRASH_ERROR_YOU: '§cТы не можешь сам себя крашнуть'
+CRASH_PLAYER: '§fВы крашнули игрока %s'
 
 FW: '§aСалют!'
 
