@@ -3388,7 +3388,7 @@ ENDER_CHEST: 'Эндер-сундук'
 LOOM: 'Ткатцкий станок'
 CARTOGRAPHY_TABLE: 'Стол картографа'
 GRINDSTONE: 'Точило'
-SMITH_TABLE: 'Стол кузнеца'
+SMITHING_TABLE: 'Стол кузнеца'
 STONECUTTER: 'Камнерез'
 
 EFFECT_NIGHT_VISION: 'Ночное зрение'
