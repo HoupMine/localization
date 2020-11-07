@@ -2454,7 +2454,8 @@ ISLAND_GENERATOR_UPGRADE_LEVEL_CLICK:
 - ' §e▸ Нажмите, чтобы купить'
 ISLAND_BUY_BEACON_ALERT: '§6SkyBlock §8| §fИгрок %s §fкупил эффект маяка §7%s §fза §e%s §f%s'
 ISLAND_BUY_GENERATOR: '§6SkyBlock §8| §fИгрок %s §fулучшил генератор для вашего острова до §a%s §fуровня'
-ISLAND_DEFAULT_GENERATOR_LORE: '§8 • §7100% булыжник'
+ISLAND_DEFAULT_GENERATOR_LORE: 
+- '§8 • §7100% булыжник'
 ISLAND_FIRST_GENERATOR_LORE:
 - '§8 • §73% угольная руда'
 - '§8 • §71% железная руда'
