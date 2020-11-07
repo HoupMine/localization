@@ -2449,7 +2449,7 @@ ISLAND_GENERATOR_UPGRADE_MAX:
 - '§7В данный момент он дает:'
 ISLAND_GENERATOR_UPGRADE_LEVEL_CLICK:
 - ''
-- '§7Цена: §ax%s изумурудных блоков'
+- '§7Цена: §e%s'
 - ''
 - ' §e▸ Нажмите, чтобы купить'
 ISLAND_BUY_BEACON_ALERT: '§6SkyBlock §8| §fИгрок %s §fкупил эффект маяка §7%s §fза §e%s §f%s'
