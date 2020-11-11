@@ -1837,6 +1837,10 @@ EFFECT_JUMP: 'Прыгучесть'
 EFFECT_DAMAGE_RESISTANCE: 'Сопротивление урону'
 EFFECT_LUCK: 'Удача'
 EFFECT_REGENERATION: 'Регенерация'
+EFFECT_NIGHT_VISION: 'Ночное зрение'
+EFFECT_DOLPHINS_GRACE: 'Дельфинья грация'
+EFFECT_CONDUIT_POWER: 'Морская сила'
+EFFECT_HERO_OF_THE_VILLAGE: 'Герой деревни'
 ISLAND_PROFILE_BEACON_NAME: 'Эффекты'
 ISLAND_PROFILE_BEACON_LORE:
 - ''
@@ -1858,6 +1862,7 @@ ISLAND_PROFILE_ADDLEVEL_LORE:
 - '§8• §fАлмазный блок §8- §a7 §fочков'
 - '§8• §fЗолотой блок §8- §a8 §fочков'
 - '§8• §fИзумрудный блок §8- §a20 §fочков'
+- '§8• §fНезеритовый блок §8- §a400 §fочков'
 - ' '
 - '§e▸ Нажмите, чтобы открыть'
 ISLAND_PROFILE_GUI_NAME: 'Настройки острова'
@@ -2546,6 +2551,38 @@ ISLAND_SIXTH_GENERATOR_LORE:
 - '§8 • §70.5% лазурит'
 - '§8 • §71% алмазная руда'
 - '§8 • §71% изумрудная руда'
+
+ISLAND_BASALT_GENERATOR_UPGRADE: 'Улучшение генератора базальта'
+ISLAND_DEFAULT_BASALT_GENERATOR_LORE: '§8 • §7100% базальт'
+ISLAND_BUY_BASALT_GENERATOR: '§6SkyBlock §8| §fИгрок %s §fулучшил базальтовый генератор для вашего острова до §a%s §fуровня'
+ISLAND_BASALT_FIRST_GENERATOR_LORE:
+- '§8 • §710% Незеррак'
+- '§8 • §70.5% Плачущий обсидиан'
+ISLAND_BASALT_SECOND_GENERATOR_LORE:
+- '§8 • §712.5% Незеррак'
+- '§8 • §70.5% Плачущий обсидиан'
+- '§8 • §72% Незерская золотая руда'
+ISLAND_BASALT_THIRD_GENERATOR_LORE:
+- '§8 • §715% Незеррак'
+- '§8 • §70.5% Плачущий обсидиан'
+- '§8 • §74% Незерская золотая руда'
+- '§8 • §71.5% Кварцевая руда'
+ISLAND_BASALT_FOURTH_GENERATOR_LORE:
+- '§8 • §717.5% Незеррак'
+- '§8 • §70.5% Плачущий обсидиан'
+- '§8 • §76% Незерская золотая руда'
+- '§8 • §73% Кварцевая руда'
+- '§8 • §70.01% Древние обломки'
+ISLAND_BASALT_FIFTH_GENERATOR_LORE:
+- '§8 • §720% Незеррак'
+- '§8 • §70.5% Плачущий обсидиан'
+- '§8 • §78% Незерская золотая руда'
+- '§8 • §74.5% Кварцевая руда'
+- '§8 • §70.02% Древние обломки'
+
+ISLAND_BASALT_GENERATOR_UPGRADE_MAX:
+- '§7У вас максимальный уровень генератора: §a%s'
+- '§7В данный момент он дает:'
 #delete
 # ISLAND_GENERATOR_GUI_NAME: 'Генераторы'
 # ISLAND_GENERATOR_GUI_LORE:
@@ -3390,8 +3427,3 @@ CARTOGRAPHY_TABLE: 'Стол картографа'
 GRINDSTONE: 'Точило'
 SMITHING_TABLE: 'Стол кузнеца'
 STONECUTTER: 'Камнерез'
-
-EFFECT_NIGHT_VISION: 'Ночное зрение'
-EFFECT_DOLPHINS_GRACE: 'Дельфинья грация'
-EFFECT_CONDUIT_POWER: 'Морская сила'
-EFFECT_HERO_OF_THE_VILLAGE: 'Герой деревни'
