@@ -2555,7 +2555,8 @@ ISLAND_SIXTH_GENERATOR_LORE:
 
 ISLAND_BASALT_GENERATOR_UPGRADE: 'Улучшение генератора базальта'
 ISLAND_BUY_BASALT_GENERATOR: '§6SkyBlock §8| §fИгрок %s §fулучшил базальтовый генератор для вашего острова до §a%s §fуровня'
-ISLAND_BASALT_DEFAULT_GENERATOR_LORE: '§8 • §7100% базальт'
+ISLAND_BASALT_DEFAULT_GENERATOR_LORE: 
+- '§8 • §7100% базальт'
 ISLAND_BASALT_FIRST_GENERATOR_LORE:
 - '§8 • §710% Незеррак'
 - '§8 • §70.5% Плачущий обсидиан'
