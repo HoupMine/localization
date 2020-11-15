@@ -2554,6 +2554,9 @@ ISLAND_SIXTH_GENERATOR_LORE:
 - '§8 • §71% алмазная руда'
 - '§8 • §71% изумрудная руда'
 
+ISLAND_NETHER_MINE_ERROR: '§cВы не можете рыть блоки в адской шахте, пока не приобретете улучшение "АД"'
+ISLAND_MINE_UPDATE_NETHER: '§fАвтошахта обновлена §7/warp minenether'
+
 ISLAND_BASALT_GENERATOR_UPGRADE: 'Улучшение генератора базальта'
 ISLAND_BUY_BASALT_GENERATOR: '§6SkyBlock §8| §fИгрок %s §fулучшил базальтовый генератор для вашего острова до §a%s §fуровня'
 ISLAND_BASALT_DEFAULT_GENERATOR_LORE: 
