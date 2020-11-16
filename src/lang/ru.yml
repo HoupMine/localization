@@ -2372,12 +2372,15 @@ ISLAND_BUY_UPGRADE_TERRITORY: '§6SkyBlock §8| §fИгрок %s §fкупил �
 ISLAND_BUY_UPGRADE: '§6SkyBlock §8| §fИгрок %s §fкупил улучшение §a%s'
 ISLAND_BUY_UPGRADE_PRICE_LORE:
 - '§7Цена: §a%s'
+- '§7Цена: §e%s §7%s'
 - ' '
-- '§e▸ Нажмите, чтобы купить'
-ISLAND_UPGRADE_NETHER_NAME: 'Ад'
+- '§e▸ Нажмите ЛКМ, чтобы купить за блоки'
+- '§e▸ Нажмите ПКМ, чтобы купить за золото'
+ISLAND_UPGRADE_NETHER_NAME: 'Адские мелочи'
 ISLAND_UPGRADE_NETHER_LORE:
 -
-- '§7Покупка ада'
+- '§7Открывает доступ в ад'
+- '§7и адскую шахту'
 ISLAND_UPGRADE_FUEL_ECONOMY_FURNACE_NAME: 'Топливный барон'
 ISLAND_UPGRADE_FUEL_ECONOMY_FURNACE_LORE:
 -
