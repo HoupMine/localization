@@ -2374,7 +2374,7 @@ ISLAND_BUY_UPGRADE_PRICE_LORE:
 - '§7Цена: §a%s'
 - '§7Цена: §e%s §7%s'
 - ' '
-- '§e▸ Нажмите ЛКМ, чтобы купить за блоки'
+- '§e▸ Нажмите ЛКМ, чтобы купить за монеты'
 - '§e▸ Нажмите ПКМ, чтобы купить за золото'
 ISLAND_UPGRADE_NETHER_NAME: 'Адские мелочи'
 ISLAND_UPGRADE_NETHER_LORE:
