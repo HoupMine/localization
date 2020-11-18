@@ -2373,6 +2373,7 @@ ISLAND_ADD_IGNORE_PLAYER: '§6SkyBlock §8| %s §fбыл добавлен уча
 ISLAND_REMOVE_IGNORE_PLAYER: '§6SkyBlock §8| %s §fбыл удален участником %s§f из списка нежелательных игроков острова'
 ISLAND_MAX_UPGRADE: '§6SkyBlock §8| §cОшибка! У вас уже максимальный уровень данного апгрейда'
 ISLAND_UPGRADE_BUY_ERROR: '§6SkyBlock §8| §fНа балансе острова недостаточно денег для покупки улучшения! Пополните его командой §7/is addmoney <сумма>'
+ISLAND_UPGRADE_BUY_GOLD_ERROR: '§6SkyBlock §8| §fУ вас недостаточно §eзолота §f для этой покупки (необходимо §e%s§f)'
 ISLAND_BUY_UPGRADE_TERRITORY: '§6SkyBlock §8| §fИгрок %s §fкупил расширение территории острова'
 ISLAND_BUY_UPGRADE: '§6SkyBlock §8| §fИгрок %s §fкупил улучшение §a%s'
 ISLAND_BUY_UPGRADE_PRICE_LORE:
