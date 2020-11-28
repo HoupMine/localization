@@ -2384,11 +2384,10 @@ ISLAND_BUY_UPGRADE_PRICE_LORE:
 - '§e▸ Нажмите ПКМ, чтобы купить за золото'
 ISLAND_UPGRADE_NETHER_NAME: 'Адские мелочи'
 ISLAND_UPGRADE_NETHER_LORE:
--
+- ''
 - '§7Открывает доступ в ад'
 - '§7и адскую шахту'
-- '§cВНИМАНИЕ! Ведётся разработка, вы можете'
-- '§cоформить предзаказ купив его сейчас'
+- ''
 ISLAND_UPGRADE_FUEL_ECONOMY_FURNACE_NAME: 'Топливный барон'
 ISLAND_UPGRADE_FUEL_ECONOMY_FURNACE_LORE:
 -
