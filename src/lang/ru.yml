@@ -2387,7 +2387,6 @@ ISLAND_UPGRADE_NETHER_LORE:
 - ''
 - '§7Открывает доступ в ад'
 - '§7и адскую шахту'
-- ''
 ISLAND_UPGRADE_FUEL_ECONOMY_FURNACE_NAME: 'Топливный барон'
 ISLAND_UPGRADE_FUEL_ECONOMY_FURNACE_LORE:
 -
@@ -2678,6 +2677,36 @@ ISLAND_BASALT_FIFTH_GENERATOR_LORE:
 ISLAND_BASALT_GENERATOR_UPGRADE_MAX:
 - '§7У вас максимальный уровень генератора: §a%s'
 - '§7В данный момент он дает:'
+
+ISLAND_PROFILE_BIOME_NETHER_NAME: 'Выбор адского биома'
+ISLAND_PROFILE_BIOME_NETHER_LORE:
+- ' '
+- '§7Установка и покупка новых адских биомов'
+- ' '
+- '§cВНИМАНИЕ! Покупать и менять биомы'
+- '§cострова может только владелец или со-владелец'
+- ' '
+- '§e▸ Нажмите, чтобы открыть настройки биома'
+
+ISLAND_BIOME_NETHER_WASTES_NAME: 'Незерские пустоши'
+ISLAND_BIOME_NETHER_WASTES_LORE:
+- ' '
+
+ISLAND_BIOME_BASALT_DELTAS_NAME: 'Базальтовые дельты'
+ISLAND_BIOME_BASALT_DELTAS_LORE:
+- ' '
+
+ISLAND_BIOME_SOUL_SAND_VALLEY_NAME: 'Долина песка душ'
+ISLAND_BIOME_SOUL_SAND_VALLEY_LORE:
+- ' '
+
+ISLAND_BIOME_WARPED_FOREST_NAME: 'Искаженный лес'
+ISLAND_BIOME_WARPED_FOREST_LORE:
+- ' '
+
+ISLAND_BIOME_CRIMSON_FOREST_NAME: 'Багровый лес'
+ISLAND_BIOME_CRIMSON_FOREST_LORE:
+- ' '
 #delete
 # ISLAND_GENERATOR_GUI_NAME: 'Генераторы'
 # ISLAND_GENERATOR_GUI_LORE:
