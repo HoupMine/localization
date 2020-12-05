@@ -2572,6 +2572,7 @@ HIDER_DISABLE_LORE:
 - '§7чтобы скрыть игроков'
 TITLE_JOIN_LOBBY: '§fГолосовой чат сервера!'
 SUBTITLE_JOIN_LOBBY: '§9Discord §ddiscord.houpmine.ru'
+PROMO_ITEM_NAME: '§aСКИДКИ!'
 
 ACHIEVEMENT_DONE: '§eВыполнено'
 ACHIEVEMENT_NO_DONE: '§cНе выполнено'
