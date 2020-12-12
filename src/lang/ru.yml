@@ -165,7 +165,7 @@ BOARD_RANK_YOU: 'Ваш ранг'
 
 REGION_NOT_FOUND: 'Не найден'
 
-PROFILE_MAIN_GUI_NAME: 'Профиль'
+PROFILE_MAIN_GUI_NAME: 'HoupMine - Профиль игрока'
 PROFILE_MAIN_ITEM_PLAYER_NAME: '§bОбщая информация'
 PROFILE_MAIN_ITEM_PLAYER_LORE:
 - '§7Статус: %s'
@@ -186,12 +186,13 @@ PROFILE_MAIN_ITEM_LEVEL_LORE:
 - '§7До следующего уровня: §a%s XP'
 - ''
 - '§e▸ Открыть меню наград'
-PROFILE_MAIN_ITEM_INFO_NAME: 'Информация'
+PROFILE_MAIN_ITEM_INFO_NAME: 'Все ссылки сервера'
 PROFILE_MAIN_ITEM_INFO_LORE:
-- '§7Полезная информация для'
-- '§7игры на сервере'
+- '§7Хотите получить все ссылки'
+- '§7на ресурсы сервера? Просто нажмите'
+- '§7сюда и мы выведем все ссылки в чат!'
 - ''
-- '§e▸ Открыть меню информации'
+- '§e▸ Нажми чтобы открыть...'
 PROFILE_MAIN_ITEM_STATS_NAME: 'Статистика'
 PROFILE_STATS_GUI_NAME: 'Статистика'
 PROFILE_STATS_GUI_NAME2: 'Статистика игрока'
@@ -859,7 +860,7 @@ GUI_DONATE_SHULKER_SURVIVAL_LORE:
 - ' §8▪ §7Увеличенный лимит блоков для привата §c500к' #junior 600
 - ''
 
-GAMEMENU_NAME_GUI: 'Выбор режима'
+GAMEMENU_NAME_GUI: 'HoupMine - Режимы сервера'
 GAMEMENU_ONLINE_LORE: '§8На режиме играет %s %s'
 GAMEMENU_PROFILE_NAME: '§bВаш профиль'
 GAMEMENU_PROFILE_LORE:
