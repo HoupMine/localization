@@ -73,18 +73,22 @@ HOLO_DONATE:
 - '§fНаш онлайн-магазин:'
 - '§6§lHOUPMINE.RU'
 
-ITEMS_LOBBY_SELECTOR_NAME: '§aИгровые режимы'
+ITEMS_LOBBY_SELECTOR_NAME: '§eВыбор режима §7(ПКМ)'
 ITEMS_LOBBY_SELECTOR_LORE:
-- '§7Универсальный прибор'
-- '§7для передвижения по'
-- '§7всем режимам сервера'
+- '§7Выбор режима - тут вы сможете'
+- '§7выбрать сервер на который пойти!'
+- ''
+- '§e§oОткрыть §f§o[Правый-Клик]'
+ITEMS_LOBBY_PROFILE_NAME: '§eПрофиль §7(ПКМ)'
+ITEMS_LOBBY_PROFILE_LORE:
+- '§7Профиль - тут расположена'
+- '§7самая важная информация игрока!'
+- ''
+- '§e§oОткрыть §f§o[Правый-Клик]'
 ITEMS_LOBBY_GADGETS_NAME: '§eГаджеты'
 ITEMS_LOBBY_GADGETS_LORE:
 - '§7Различные вещи для'
 - '§7развлечения в лобби'
-ITEMS_LOBBY_PROFILE_NAME: '§eПрофиль игрока'
-ITEMS_LOBBY_PROFILE_LORE:
-- '§7Полезная информация'
 
 CRASH_ERROR_YOU: '§cТы не можешь сам себя крашнуть'
 CRASH_PLAYER: '§fВы крашнули игрока %s'
