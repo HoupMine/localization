@@ -233,6 +233,7 @@ PROFILE_MAIN_ITEM_GLOW_LORE:
 - '§7Включив свечение, вы станете'
 - '§7подсвечиваться различным цветом'
 - '§7который выберите.'
+- ''
 - '§e▸ Нажми чтобы открыть'
 PROFILE_MAIN_ITEM_DONATE_NAME: '§bHoupDonate'
 PROFILE_MAIN_ITEM_DONATE_LORE:
