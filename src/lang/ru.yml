@@ -363,8 +363,8 @@ GUI_MAIN_ITEM_LORE_2:
 - ''
 - '§e▸ Нажми чтобы открыть перечень...'
 ###
-GUI_MAIN_ITEM_CASE_NAME:
-GUI_MAIN_ITEM_CASE_LORE:
+# GUI_MAIN_ITEM_CASE_NAME:
+# GUI_MAIN_ITEM_CASE_LORE: 
 #todo case
 GUI_MAIN_ITEM_DONATE_NAME: '§bПривилегии §7[Покупка]'
 GUI_MAIN_ITEM_DONATE_LORE:
