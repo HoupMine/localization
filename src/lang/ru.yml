@@ -437,7 +437,18 @@ GUI_DONATE_ITEM_DIAMOND_LORE:
 - '§8▸ §7Цена покупки: §b§n%s§7 рублей'
 - ''
 - '§8▪ §eОткрыть информацию!'
-
+GUI_DONATE_ITEM_EMERALD_LORE:
+- ''
+- 'hui'
+- ''
+GUI_DONATE_ITEM_MAGMA_LORE:
+- ''
+- 'sosi'
+- ''
+GUI_DONATE_ITEM_SHULKER_LORE:
+- ''
+- 'hui'
+- ''
 GUI_DONATE_ITEM_2_NAME: '§bВарианты оплаты'
 GUI_DONATE_ITEM_2_LORE:
 - '§7Покупку привилегий можно произвести через:'
