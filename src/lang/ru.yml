@@ -64,6 +64,7 @@ HOLO_INFO_LOBBY:
 - 'чтобы начать игру §7[ЛКМ]'
 - 'или узнать §aподобнее §7[ПКМ]'
 HOLO_SELECTOR_GAME_CHANNEL: '§7Нажмите, чтобы подключиться'
+HOLO_REPLACER_CHANNEL: '§fНа режиме играет §a%s §f%s'
 HOLO_REPLACER_CHANNEL_ERROR: '§cСервера не найдены!'
 HOLO_DONATE:
 - '§fПоддержи сервер, купи донат!'
