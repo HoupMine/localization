@@ -428,6 +428,7 @@ GUI_MAIN_ITEM_GIVEMONEY_LORE:
 GUI_MAIN_SELECTED: '§bВыбранный каталог'
 GUI_MAIN_GIVEMONEY: '§6Кошелек §8▷§7 Пополнение кошелька: §ewww.houpmine.ru'
 GUI_DONATE_MAIN_NAME: 'HoupDonate -> Привилегии'
+GUI_DONATE_JOIN_MESSAGE_NAME: 'HoupDonate -> Сообщения'
 GUI_DONATE_ITEM_1_NAME: '%s §7- §6Описание привилегии'
 GUI_DONATE_ITEM_GOLD_LORE:
 - '§7Уникальная привилегия §e§lGOLD§7,'
@@ -3157,14 +3158,15 @@ PROFILE_MAIN_ITEM_TITLE_LORE:
 - '§cработать на всех аренах и играх!'
 - ''
 - '§e▸ Открыть меню титулов'
-DONATE_MENU_JOIN_MESSAGE_NAME: 'Сообщения при входе'
+DONATE_MENU_JOIN_MESSAGE_NAME: '§bСообщения §7[Выбор]'
 DONATE_MENU_JOIN_MESSAGE_LORE:
-- '§7Установить кастомное сообщения'
-- '§7вашего входа на сервер'
+- '§7Уникальные сообщения которые'
+- '§7будут добавлены при вашем входе.'
 - ''
-- '§7Доступно для §e§lGOLD §7и выше!'
+- '§7Быстрый доступ §a/joinmessage'
+- '§7Русский вариант §a/сообщения'
 - ''
-- '§e▸ Нажмите, чтобы открыть меню'
+- '§e▸ Нажми, чтобы открыть перечень...'
 JOIN_MESSAGE_NAME: 'Сообщение %s'
 JOIN_MESSAGE_LORE:
 - '§7Установить кастомное оповещение'
