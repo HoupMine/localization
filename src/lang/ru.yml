@@ -548,11 +548,11 @@ GUI_DONATE_GOLD_ITEM_LORE:
 - ' §8▪ §7Доступен чат донатеров - §f/dc'
 - ' §8▪ §7Можно посидеть в лобби и хабе - §f/sit'
 - ''
-GUI_DONATE_GOLD_MAGIC_LORE:
-- ''
-- ' §8▪ §cNot found'
-- ' §8▪ §cNot found'
-- ''
+# GUI_DONATE_GOLD_MAGIC_LORE:
+# - ''
+# - ' §8▪ §cNot found'
+# - ' §8▪ §cNot found'
+# - ''
 GUI_DONATE_GOLD_SKYBLOCK_LORE:
 - ''
 - ' §8▪ §7Открыть GUI верстака - §f/workbench'
@@ -569,7 +569,7 @@ GUI_DONATE_GOLD_SKYBLOCK_LORE:
 - ' §8▪ §7Разрешено иметь до §c70 §7мобов на острове'
 - ' §8▪ §7Разрешено иметь до §c8 §7предметов на аукционе (§f/ah§7)'
 - ''
-GUI_DONATE_GOLD_SURVIVAL_LORE:
+GUI_DONATE_GOLD_SLIMEFUN_LORE:
 - ''
 # - ' §8▪ §7После смерти остается §f20% §7от вещей и опыта'
 # - ' §8▪ §7Множитель голды от убийства мобов §fx1.1'
@@ -603,14 +603,13 @@ GUI_DONATE_DIAMOND_ITEM_LORE:
 - ' §8▪ §7Можно иметь до §c40 §7друзей'
 - ' §8▪ §7Сниженная комиссия при переводе денег §f10%'
 - ' §8▪ §7Увеличены лимиты на отправку и прием денег'
-# - ' §8▪ §7Скидка §c5% §7на покупку наборов и умений'
 - ''
-GUI_DONATE_DIAMOND_MAGIC_LORE:
-- ''
-- ' §8▪ §cNot found'
-- ' §8▪ §cNot found'
-- ' §8▪ §cNot found'
-- ''
+# GUI_DONATE_DIAMOND_MAGIC_LORE:
+# - ''
+# - ' §8▪ §cNot found'
+# - ' §8▪ §cNot found'
+# - ' §8▪ §cNot found'
+# - ''
 GUI_DONATE_DIAMOND_SKYBLOCK_LORE:
 - ''
 - ' §8▪ §7Открыть GUI верстака - §f/workbench'
@@ -635,7 +634,7 @@ GUI_DONATE_DIAMOND_SKYBLOCK_LORE:
 - ' §8▪ §7Разрешено иметь до §c80 §7мобов на острове'
 - ' §8▪ §7Разрешено иметь до §c10 §7предметов на аукционе (§f/ah§7)'
 - ''
-GUI_DONATE_DIAMOND_SURVIVAL_LORE:
+GUI_DONATE_DIAMOND_SLIMEFUN_LORE:
 - ''
 # - ' §8▪ §7После смерти остается §f25% §7от вещей и опыта'
 # - ' §8▪ §7Множитель голды от убийства мобов §fx1.15'
@@ -681,13 +680,13 @@ GUI_DONATE_EMERALD_ITEM_LORE:
 - ' §8▪ §7Увеличены лимиты на отправку и прием денег'
 # - ' §8▪ §7Скидка §c10% §7на покупку наборов и умений'
 - ''
-GUI_DONATE_EMERALD_MAGIC_LORE:
-- ''
-- ' §8▪ §cNot found'
-- ' §8▪ §cNot found'
-- ' §8▪ §cNot found'
-- ' §8▪ §cNot found'
-- ''
+# GUI_DONATE_EMERALD_MAGIC_LORE:
+# - ''
+# - ' §8▪ §cNot found'
+# - ' §8▪ §cNot found'
+# - ' §8▪ §cNot found'
+# - ' §8▪ §cNot found'
+# - ''
 GUI_DONATE_EMERALD_SKYBLOCK_LORE:
 - ''
 - ' §8▪ §7Открыть GUI верстака - §f/workbench'
@@ -718,7 +717,7 @@ GUI_DONATE_EMERALD_SKYBLOCK_LORE:
 - ' §8▪ §7Разрешено иметь до §c90 §7мобов на острове'
 - ' §8▪ §7Разрешено иметь до §c15 §7предметов на аукционе (§f/ah§7)'
 - ''
-GUI_DONATE_EMERALD_SURVIVAL_LORE:
+GUI_DONATE_EMERALD_SLIMEFUN_LORE:
 - ''
 # - ' §8▪ §7После смерти остается §f30% §7от вещей и опыта'
 # - ' §8▪ §7Множитель голды от убийства мобов §fx1.2'
@@ -771,17 +770,17 @@ GUI_DONATE_MAGMA_ITEM_LORE:
 # - ' §8▪ §7Скидка §c15% §7на покупку наборов'
 # - ' §8▪ §7Скидка §c13% §7на покупку умений'
 - ''
-GUI_DONATE_MAGMA_MAGIC_LORE:
-- ''
-- ' §8▪ §cNot found'
-- ' §8▪ §cNot found'
-- ' §8▪ §cNot found'
-- ' §8▪ §cNot found'
-- ' §8▪ §cNot found'
-- ' §8▪ §cNot found'
-- ' §8▪ §cNot found'
-- ' §8▪ §cNot found'
-- ''
+# GUI_DONATE_MAGMA_MAGIC_LORE:
+# - ''
+# - ' §8▪ §cNot found'
+# - ' §8▪ §cNot found'
+# - ' §8▪ §cNot found'
+# - ' §8▪ §cNot found'
+# - ' §8▪ §cNot found'
+# - ' §8▪ §cNot found'
+# - ' §8▪ §cNot found'
+# - ' §8▪ §cNot found'
+# - ''
 GUI_DONATE_MAGMA_SKYBLOCK_LORE:
 - ''
 - ' §8▪ §7Открыть GUI верстака - §f/workbench'
@@ -815,7 +814,7 @@ GUI_DONATE_MAGMA_SKYBLOCK_LORE:
 - ' §8▪ §7Разрешено иметь до §c110 §7мобов на острове'
 - ' §8▪ §7Разрешено иметь до §c20 §7предметов на аукционе (§f/ah§7)'
 - ''
-GUI_DONATE_MAGMA_SURVIVAL_LORE:
+GUI_DONATE_MAGMA_SLIMEFUN_LORE:
 - ''
 # - ' §8▪ §7После смерти остается §f35% §7от вещей и опыта'
 # - ' §8▪ §7Множитель голды от убийства мобов §fx1.25'
@@ -857,7 +856,7 @@ GUI_DONATE_SHULKER_ITEM_LORE:
 - ' §8▪ §7Возможность сменить сообщения при входе'
 - ' §8▪ §7Отсутствует задержка на /skin'
 # - ' §8▪ §7Возможность создания гильдии'
-# - ' §8▪ §7Огромное кол-во гаджетов в лобби'
+- ' §8▪ §7Огромное кол-во гаджетов в лобби'
 # - ' §8▪ §7Огромное кол-во косметики на игровых аренах'
 # - ' §8▪ §7Резервный слот на всех аренах'
 - ' §8▪ §7Доступен режим полета во всех лобби'
@@ -873,20 +872,18 @@ GUI_DONATE_SHULKER_ITEM_LORE:
 - ' §8▪ §7Можно иметь до §c65 §7друзей'
 # - ' §8▪ §7Сниженная комиссия при переводе денег §f8%'
 - ' §8▪ §7Увеличены лимиты на отправку и прием денег'
-# - ' §8▪ §7Скидка §c15% §7на покупку наборов'
-# - ' §8▪ §7Скидка §c13% §7на покупку умений'
 - ''
-GUI_DONATE_SHULKER_MAGIC_LORE:
-- ''
-- ' §8▪ §cNot found'
-- ' §8▪ §cNot found'
-- ' §8▪ §cNot found'
-- ' §8▪ §cNot found'
-- ' §8▪ §cNot found'
-- ' §8▪ §cNot found'
-- ' §8▪ §cNot found'
-- ' §8▪ §cNot found'
-- ''
+# GUI_DONATE_SHULKER_MAGIC_LORE:
+# - ''
+# - ' §8▪ §cNot found'
+# - ' §8▪ §cNot found'
+# - ' §8▪ §cNot found'
+# - ' §8▪ §cNot found'
+# - ' §8▪ §cNot found'
+# - ' §8▪ §cNot found'
+# - ' §8▪ §cNot found'
+# - ' §8▪ §cNot found'
+# - ''
 GUI_DONATE_SHULKER_SKYBLOCK_LORE:
 - ''
 - ' §8▪ §7Открыть GUI верстака - §f/workbench'
@@ -919,7 +916,7 @@ GUI_DONATE_SHULKER_SKYBLOCK_LORE:
 - ' §8▪ §7Разрешено иметь до §c160 §7мобов на острове' #todo
 - ' §8▪ §7Разрешено иметь до §c35 §7предметов на аукционе (§f/ah§7)' #todo
 - ''
-GUI_DONATE_SHULKER_SURVIVAL_LORE:
+GUI_DONATE_SHULKER_SLIMEFUN_LORE:
 - ''
 # - ' §8▪ §7После смерти остается §f35% §7от вещей и опыта'
 # - ' §8▪ §7Множитель голды от убийства мобов §fx1.3'
