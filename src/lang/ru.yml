@@ -9,7 +9,7 @@ NO_PERMS: '§cУ вас нет прав'
 NO_PERMS_GROUP: '§cУ вас нет прав, купите %s§c или выше'
 NO_PERMS_SHULKER_ONLY: '§cУ вас нет прав, данная функция только для §7§lSHULKER'
 
-KILL_MOB: '§6+%s %s за убийство моба'
+KILL_MOB: '§6+%s %s за убийство моба'с
 
 PLAYER_LEFT: '§fИгрок %s§f покинул игру'
 PING: '§6Сервер §8| §fВаш пинг §a%s §fms'
@@ -173,14 +173,19 @@ BOARD_RANK_YOU: 'Ваш ранг'
 REGION_NOT_FOUND: 'Не найден'
 
 PROFILE_MAIN_GUI_NAME: 'HoupMine - Профиль игрока'
-# PROFILE_MAIN_ITEM_PLAYER_NAME: '§bОбщая информация'
-# PROFILE_MAIN_ITEM_PLAYER_LORE:
-# - '§7Статус: %s'
-# - ''
-# - '§7Монет: §6%s'
-# - '§7Золота: §e%s'
-# - ''
-# - '§7Скин: §f%s'
+PROFILE_MAIN_ITEM_PLAYER_NAME: '§bОбщая информация'
+PROFILE_MAIN_ITEM_PLAYER_LORE:
+- '§7Статус: %s'
+- ''
+- '§7Монет: §6%s'
+- '§7Золота: §e%s'
+- ''
+- '§7Друзей: §f%s§7/§f%s'
+- ''
+- '§7Скин: §f%s'
+- ''
+- '§7Проведено времени на сервере:'
+- '%s'
 PROFILE_MAIN_ITEM_GAMEMENU_NAME: 'Выбор режимов'
 PROFILE_MAIN_ITEM_GAMEMENU_LORE:
 - '§7С помощью данного меню, вы'
