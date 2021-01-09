@@ -9,7 +9,7 @@ NO_PERMS: '§cУ вас нет прав'
 NO_PERMS_GROUP: '§cУ вас нет прав, купите %s§c или выше'
 NO_PERMS_SHULKER_ONLY: '§cУ вас нет прав, данная функция только для §7§lSHULKER'
 
-KILL_MOB: '§6+%s %s за убийство моба'с
+KILL_MOB: '§6+%s %s за убийство моба'
 
 PLAYER_LEFT: '§fИгрок %s§f покинул игру'
 PING: '§6Сервер §8| §fВаш пинг §a%s §fms'
