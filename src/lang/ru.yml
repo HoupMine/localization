@@ -1,5 +1,20 @@
 LANGUAGE_CHANGE: '§6Сервер §8| §fВаш язык изменен на: §c%s'
 
+JANUARY: 'Январь'
+FEBRUARY: 'Февраль'
+MARCH: 'Март'
+APRIL: 'Апрель'
+MAY: 'Май'
+JUNE: 'Июнь'
+JULY: 'Июль'
+AUGUST: 'Август'
+SEPTEMBER: 'Сентябрь'
+OCTOBER: 'Октябрь'
+NOVEMBER: 'Ноябрь'
+DECEMBER: 'Декабрь'
+
+RESTART: 'Рестарт сервера через'
+
 CRASH_FORMAT: '/crash <ник игрока>'
 
 UNKNOWN_SUBCOMMAND: '§cЭтой команды не существует О_о'
