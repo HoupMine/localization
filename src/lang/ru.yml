@@ -46,6 +46,14 @@ CRASH_FORMAT: '/crash <ник игрока>'
 UNKNOWN_SUBCOMMAND: '§cЭтой команды не существует О_о'
 HELP_PAPER_FOR: '§e▸ Подкоманды для %s:'
 
+BOSS_BAR_LOBBY:
+- '§fСОКРУШИТЕЛЬНЫЙ §cОБВАЛ §fЦЕН! ВСЕ ЦЕНЫ БЫЛИ §aСНИЖЕНЫ §fНА §610%'
+- '§fПОКУПКА§e ДОНАТА §fНА САЙТЕ §7► §6§lHOUPMINE.RU'
+- '§fГОЛОСОВОЙ ЧАТ СЕРВЕРА §9§lDISCORD §7► §d§lDISCORD.HOUPMINE.RU'
+
+RULES_COMMAND: '§6Сервер §8| §fПолный список правил сервера - '
+RULES_COMMAND_HOVER: '§fНажмите сюда, чтобы перейти по ссылке'
+
 NO_PERMS: '§cУ вас нет прав'
 NO_PERMS_GROUP: '§cУ вас нет прав, купите %s§c или выше'
 NO_PERMS_SHULKER_ONLY: '§cУ вас нет прав, данная функция только для §7§lSHULKER'
