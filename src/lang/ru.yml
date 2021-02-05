@@ -3416,6 +3416,7 @@ JOIN_MESSAGE_LORE_2:
 JOIN_MESSAGE_LORE_SELECT: '§aСообщение выбрано'
 JOIN_MESSAGE_LORE_NOT_SELECT: '§e▸ Нажмите, чтобы выбрать'
 JOIN_MESSAGE_LORE_NOT_AVAILABLE: '§cДанное сообщение вам не доступно'
+GADGETS_NOT_ACTIVATED: '§cНе выбрано'
 GADGETS_CAN_AVAILABLE: 'Можно получить:'
 GADGETS_GIVE_MONEY: '§7Цена: §6%s монет'
 GADGETS_GIVE_DONATE: '§7От привилегии %s §7и выше'
