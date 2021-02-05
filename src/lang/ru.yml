@@ -336,6 +336,11 @@ PROFILE_MAIN_ITEM_LANG_LORE2:
 - '§cошибки по ссылке https://vk.cc/azroYs'
 - ''
 - '§e▸ Открыть меню языков'
+PROFILE_MAIN_ITEM_SETTINGS_NAME: 'Настройки'
+PROFILE_MAIN_ITEM_SETTINGS_LORE:
+- '§7Персональные настройки'
+- ''
+- '§e▸ Открыть меню настроек'
 PROFILE_LANG_ITEM_LORE1: '§7Сменить язык на %s'
 PROFILE_LANG_ITEM_LORE2: '§e▸ Нажмите, чтобы сменить язык'
 PROFILE_LANG_ITEM_LORE3: '§aВыбран'
