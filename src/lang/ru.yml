@@ -41,7 +41,7 @@ DISCORD_INFO: '§6Discord §8| §fУ пользователя %s §fпривяз
 DISCORD_INFO_ERROR: '§6Discord §8| §fДанный игрок не привязал свой аккаунт к Discord'
 DISCORD_INFO_YOU: '§6Discord §8| §fК вашему аккаунту привязан Discord §7%s'
 DISCORD_INFO_YOU_ERROR: '§6Discord §8| §fК вашему аккаунту не привязан Discord'
-DISCORD_USER_NOTFOUND: '§6Discord §8| §fОшибка, данный профиль §7Discord §fне найден!'
+DISCORD_USER_NOT_FOUND: '§6Discord §8| §fОшибка, данный профиль §7Discord §fне найден!'
 
 CRASH_FORMAT: '/crash <ник игрока>'
 
