@@ -1551,6 +1551,7 @@ TRADE: '§fЗапрос на обмен отправлен игроку %s'
 TRADE_ERROR_YOU: '§cВы не можете обмениваться сами с собой'
 TRADE_ERROR: '§6Trade §8| §fС вами еще никто не хотел поменяться'
 TRADE_ERROR2: '§6Trade §8| §fУ вас нет ожидающих заявок от игрока %s'
+TRADE_BROKEN: "§6Trade §8| §fЧто-то пошло не так, обмен был прерван" #удалить
 
 #skyblock holo
 HOLO_SKYBLOCK_START:
