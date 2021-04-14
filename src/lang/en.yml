@@ -87,6 +87,14 @@ ITEMS_LOBBY_PROFILE_LORE:
 - ''
 - '§e§oOpen §f§o[Right-Click]'
 
+CRASH_ERROR_YOU: '§cYou cannot crash yourself'
+CRASH_PLAYER: '§fYou have crashed the player %s'
+
+FW: '§aFirework!'
+
+ERROR_COMMAND: '§cError, please contact %s'
+ERROR_COMMAND_IN_GAME: '§cThis command is not available in the game'
+
 MONEY_1:
 - 'coin'
 - 's'
