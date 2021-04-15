@@ -1,5 +1,18 @@
 LANGUAGE_CHANGE: '§6Server §8| §fYour language has been changed to §c%s'
 
+JANUARY: 'January'
+FEBRUARY: 'February'
+MARCH: 'March'
+APRIL: 'April'
+MAY: 'May'
+JUNE: 'June'
+JULY: 'July'
+AUGUST: 'August'
+SEPTEMBER: 'September'
+OCTOBER: 'October'
+NOVEMBER: 'November'
+DECEMBER: 'December'
+
 UNKNOWN_SUBCOMMAND: '§cThis command was not found О_о'
 HELP_PAPER_FOR: '§e▸ Subcommand for %s:'
 
@@ -1012,7 +1025,7 @@ GADGETS_GIVE_DONATE_ONLY: '§7Free for %s'
 GADGETS_GIVE_GOLD: '§7Price: §e%s §7gold'
 GADGETS_GIVE_BOX: '§7you found it in §bLucky Chest §7(%s§7)'
 GADGETS_GIVE_LEVEL: '§7your level is §d%s §7or higher'
-GADGETS_GIVE_SITE: '§7you buy it at §blast-craft.com'
+GADGETS_GIVE_SITE: '§7you buy it at §bhoupmine.ru'
 
 MYSTERY_DUST_DATA: 'Coins'
 GOLD_DATA: 'Gold'
@@ -1119,7 +1132,7 @@ BOX_GUI_HELP2_LORE:
 - '§7If you have not enough keys whatever,'
 - '§7you always can buy them by currency.'
 - '§7Click §cRMB §7by key you need or'
-- '§7buy it at §flast-craft.com'
+- '§7buy it at §fhoupmine.ru'
 BOX_SHOP_GUI_NAME: 'Buy keys'
 BOX_NO_OPEN: '§cПростите, но вы не можете открыть этот "кейс" на данном режиме!'
 BOX_SHOP_SELECT_LORE:
