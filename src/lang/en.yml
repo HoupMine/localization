@@ -13,6 +13,38 @@ OCTOBER: 'October'
 NOVEMBER: 'November'
 DECEMBER: 'December'
 
+RESTART: 'Server restarting in'
+
+DISCORD_CONFIRM_ERROR: '§6Discord §8| §cОшибка, включите личные сообщения от участников сервера или разблокируйте личные сообщения от бота (%s)'
+DISCORD_CONFIRM_PLS:
+- ' '
+- '§6Discord §8| §fВам было отправлено сообщение в §9Discord'
+- '§6Discord §8| §cСледуйте указаниям бота§f, чтобы закончить привязку'
+- ' '
+DISCORD_PRINT_NAME: 'Привет! Для того, чтобы привязать этот дискорд к вашему аккаунту на сервере HoupMine, вы должны написать в этот чат свой игровой никнейм. Учти, если ты покинешь сервер, то процесс привязки прервется!'
+DISCORD_NAME_IS_ERROR: 'Ошибка, имя игрока указано не правильно'
+DISCORD_GIVE_MONEY: 'Вы получаете %s %s за %s %s в дискорд канале сервера HoupMine'
+DISCORD_HELP:
+- '§7/discord link <tag> §f- привязать к дискорду'
+- '§7/discord unlink §f- отвязать от дискорда'
+- '§7/discord info <ник игрока> §f- узнать дискорд игрока'
+- '§7/friends help §f- помощь'
+DISCORD_UNLINK: '§6Discord §8| §fВы успешно отвязали аккаунт %s'
+DISCORD_UNLINK_ERROR: '§6Discord §8| §cОшибка, к вашему Discord не привязан никакой аккаунт в игре'
+DISCORD_LINK: '§6Discord §8| §fВы успешно привязали аккаунт %s §fк Discord §7%s'
+DISCORD_LINK_GAME: '§6Discord §8| §fВы успешно отвязали аккаунт %s §fот этого Discord'
+DISCORD_LINK_ERROR_SERVER: '§6Discord §8| §fОшибка, вы должны зайти в Discord сервер HoupMine §7https://discord.houpmine.ru'
+DISCORD_LINK_FORMAT: '/discord link <tag>'
+DISCORD_LINK_ALREADY: '§6Discord §8| §fОшибка, у вас уже есть привязка к Discord'
+DISCORD_LINK_ALREADY_2: '§6Discord §8| §fОшибка, данный Discord уже привязан к другому аккаунту'
+DISCORD_INFO: '§6Discord §8| §fУ пользователя %s §fпривязан Discord §7%s'
+DISCORD_INFO_ERROR: '§6Discord §8| §fДанный игрок не привязал свой аккаунт к Discord'
+DISCORD_INFO_YOU: '§6Discord §8| §fК вашему аккаунту привязан Discord §7%s'
+DISCORD_INFO_YOU_ERROR: '§6Discord §8| §fК вашему аккаунту не привязан Discord'
+DISCORD_USER_NOT_FOUND: '§6Discord §8| §fОшибка, данный профиль §7Discord §fне найден!'
+
+CRASH_FORMAT: '/crash <nickname>'
+
 UNKNOWN_SUBCOMMAND: '§cThis command was not found О_о'
 HELP_PAPER_FOR: '§e▸ Subcommand for %s:'
 
@@ -57,13 +89,14 @@ BOX_WINNER_OTHER: '%s §fhas won %s§f item %s'
 BOX_KEYS: '§dKeys §f(§6+%s§f)'
 BOX_EXP: '§eexperience §f(§a+%s§f)'
 BOX_MONEY: '§aCoins §f(§6+%s§f)'
+# BOX_GOLD: '§eЗолото §f(§e+%s§f)'
 
 ENABLE: 'Enable'
 DISABLE: 'Disable'
 
 COOLDOWN: '§cWait %s§c %s to use that'
 COOLDOWN_2: '§cWait %s to use that'
-AFK: '§cDo not stay on the same place!'
+# AFK: '§cDo not stay on the same place!'
 
 BALANCE: '§6Balance §8| §fYou have %s'
 
@@ -87,7 +120,8 @@ HOLO_DONATE:
 - '§a§lEMERALD §f- §6289 §fRubbles'
 - '§c§lMAGMA §f- §6399 §fRubbles'
 - '§%s§lSHULKER §f- §6859 §fRubbles'
-- '§fOur online store:'
+- '§2§lJUNIOR §f- §61660 §fRubbles'
+- '§fBuy on our site:'
 - '§6§lHOUPMINE.RU'
 
 ITEMS_LOBBY_SELECTOR_NAME: '§eGame menu §7(RMB)'
