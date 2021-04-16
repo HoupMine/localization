@@ -2789,6 +2789,16 @@ ACCEPT_LORE_NO:
 # - '§7Уровень острова: §d%s %s §6%s'
 # - '§7До следующего уровня: §a%s XP'
 
+ITEMS_GUI_CONFIRMATION_TITLE: 'Подтверждение покупки'
+ITEMS_GUI_CONFIRMATION_LORE:
+- ' '
+- '§7Вы уверены, что хотите'
+- '§7приобрести этот предмет?'
+- ' '
+- '§cЭто действие необратимо'
+ITEMS_GUI_COST_FORMAT: '§7Цена: %s %s'
+ITEMS_GUI_DISCOUNTED_COST_FORMAT: '§7Цена (со скидкой): %s %s'
+
 COMPASS_ITEM_NAME: '§eТелепортер'
 COMPASS_ITEM_LORE:
 - '§7Используй его для телепортации к игрокам'
