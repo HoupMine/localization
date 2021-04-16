@@ -1609,8 +1609,8 @@ AUCTION_LORE_ITEM:
 SHOP_HOVER_TEST: '§fClick here,\n§fto open this shop'
 SHOP_LORE_ITEM:
 - ''
-- '§7Price purchase: §a%s$'
-- '§7Receive after sale: §c%s$'
+- '§7Price purchase: §a%s'
+- '§7Receive after sale: §c%s'
 - ''
 - '§7Click on §fmouse wheel,'
 - '§7to sell all %s'
