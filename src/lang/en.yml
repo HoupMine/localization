@@ -1509,7 +1509,102 @@ DAY: day
 NIGHT: night
 MORNING: morning
 
+FRIENDS_ADD_FORMAT: /f add <player name>
+FRIENDS_REMOVE_FORMAT: /f remove <player name>
+FRIENDS_ACCEPT_FORMAT: /f accept <player name>
+FRIENDS_DECLINE_FORMAT: /f decline <player name>
+FRIENDS_TP_FORMAT: /f tp <friend name>
+HELP_FRIENDS:
+- '§7/friends add <player name> §f- add player to friends list'
+- '§7/friends remove <player name> §f- remove player from friends list'
+- '§7/friends accept <player name> §f- accept friend request from player'
+- '§7/friends decline <player name> §f- decline friend request from player'
+- '§7/friends requests §f- friend request list'
+- '§7/friends list §f- friend list'
+- '§7/friends tp <player name> §f- teleport to your friend server'
+FRIENDS_YOURSELF_AS_FRIEND: '§cYou cannot add yourself to your friend list'
+FRIENDS_ALREADY_FRIENDS: '§cYou are already friends with that player!'
+FRIENDS_PLAYER_REMOVED: '§6Friends §8| §fPlayer %s §fwas removed from your friend list'
+FRIENDS_PLAYER_REMOVED_YOU: '§6Friends §8| §fPlayer %s §fremoved you from his friend list.'
+FRIENDS_ONLINE: '§6Friends §8| §fThere are §a%d §f%s online'
+FRIENDS_INVITE_SENT: '§6Friends §8| §fFriend request sent to player %s'
+FRIENDS_ALREADY_SENT_REQUEST: '§cYou have already sent friend request to that player...'
+FRIENDS_INVITE_EVENT_CANCELLED: '§cPrivate policy of this player blocks you from adding him to your friend list'
+FRIENDS_INVITE_TEXT: '§6Friends §8| §fPlayer %s §fhas sent you a friend request. You have 5 minutes to accept it'
+FRIENDS_INVITE_EXPIRED: '§cFriend request to player %s was rejected automatically'
+FRIENDS_DONT_HAVE_INVITES_FROM: '§cYou do not have a friend request from player %s'
+FRIENDS_NEW_FRIEND: '§6Friends §8| §fCongratulations! You are now friends with %s'
+FRIEND_NEW_INVITE: '%s §fsent friend request §7(%s mutal)'
+FRIENDS_YOU_REJECTED_REQUEST: '§6Friends §8| §fYou have rejected a friend request from %s'
+FRIENDS_REQUEST_REJECTED: '§6Friends §8| §fPlayer %s §fhas rejected your friend request'
+FRIEND_JOINED: '§6Friends §8| §fYour friend %s §fhas joined the game §7(click here)'
+FRIEND_JOINED_HOVER: '§fClick to send %s §fa message'
+YOU_HAVE_NO_ONLINE_FRIENDS: '§cОшибка, у Вас нет онлайн друзей'
+
 GROUP_CHANGES_BROADCAST: '§cModeration §8| §f%s §7has updated donate group of %s'
+
+MESSAGE_FORMAT: '§c/msg <player name> <message>'
+IGNORE_FORMAT: '§c/ignore <player name>'
+REPLY_FORMAT: '§c/reply <message>'
+SENT_MESSAGE_FORMAT: ' §6PM §8| §6I §8-> §6%s §8| §f%s'
+RECIEVED_MESSAGE_FORMAT: ' §6PM §8| §6%s §8-> §6Я §8| §f%s'
+REPLY_PLAYER_OFFLINE: '§cNo one wrote to you'
+STAFFCHAT_FORMAT: '/staffchat <message>'
+DONATECHAT_FORMAT: '/donatechat <message>'
+STAFFCHAT_MSG: '§eStaff chat §8| §f%s §8» §f%s'
+DONATECHAT_MSG: '§6Donate chat §8| §f%s §8» §7%s'
+YOU_HAVE_DONATECHAT_COOLDOWN: '§cYou can write in the donate chat once in 30 seconds'
+CANT_MESSAGE_YOURSELF: '§cYou cannot contact yourself'
+STAFFCHAT_ENABLED: '§cModeration §8| §f%s §7now sees staff chat'
+STAFFCHAT_DISABLED: '§cModeration §8| §f%s §7is no longer see staff chat'
+DONATECHAT_ENABLED: '§aYou can now see donate chat again'
+DONATECHAT_TOGGLE: '§6Чат донатеров §8| %s'
+YOU_DISABLED_DONATECHAT: '§cYou turned off donate chat. To write a message, to enable it in private settings'
+YOU_DISABLED_STAFFCHAT: '§cYou turned off staff chat. To write a message type /sc toggle to enable it'
+FRIENDS_GUI_TP_LORE: ' §e▸ Click to teleport to a friends server'
+FRIENDS_GUI_EQUAL_SERVER: ' §c▸ You are already on one server'
+FRIENDS_GUI_NULL_TP_LORE: ' §c✗ Player is offline'
+PLAYER_IGNORED: '§eYou added player %s §eto your ignore list. He can no longer find and contact you'
+PLAYER_NOT_IGNORED: '§cYou removed player %s §cfrom ignore list.'
+IGNORE_LIMIT: '§cYou exceeded the limit for ignore list size.'
+FRIENDS_LIMIT: '§cYou exceeded the limit for friends number.'
+FRIENDS_LIMIT_FRIEND: '§cВаш друг превысил лимит на количество друзей!'
+IGNORELIST_EMPTY: '§cВ Вашем списке игнорируемых нет игроков.'
+FRIENDS_GUI_NAME: 'Список друзей'
+FRIEND_REQUEST_GUI_MAIN_LORE:
+ - ''
+ - '§7Total requests:'
+ - '§a%s'
+FRIEND_GUI_MAIN_LORE:
+ - ''
+ - '§7Total friends: §a%s'
+ - '§7Total online friends: §a%s'
+FRIENDS_GUI_LORE:
+- '§7Уровень: §d%s'
+- '§7Общих друзей: §f%s'
+FRIENDS_GUI_SERVER_LORE: 
+ - '§7Now on the server §e%s'
+FRIENDS_GUI_NULL_SERVER_LORE: 
+ - '§7Last time seen'
+ - '§e%s ago'
+REQUEST_GUI_NAME: 'Requests'
+FRIEND_REQUEST_GUI_LORE:
+- ''
+- ' §e▸ Left click to accept request'
+- ' §e▸ Right click to decline request'
+YOU_CANT_CONTACT_HIM: '§cThat player added you to his ignore list'
+YOU_DONT_HAVE_FRIEND_REQUESTS: '§cYou dont have friend requests.'
+YOU_DONT_HAVE_FRIENDS: '§cYou dont have friends yet :('
+FRIENDS_NOT_FRIENDS: '§cYou are not friends with that player.'
+IGNORE_GUI_MAIN: 'Ignore list'
+IGNORE_GUI_MAIN_LORE:
+ - ''
+ - '§7Total players ignored:'
+ - '§a%s'
+IGNORE_GUI_ITEM_LORE: 
+ - ''
+ - ' §e▸ Click here to remove'
+ - ' §eplayer from your ignore list'
 GROUP_COMMAND_HELP:
  - '§6Groups §8| §fHelp:'
  - '§7/group clear <player name>§f - reset player rank to default'
@@ -1518,6 +1613,14 @@ GROUP_COMMAND_HELP:
 YOU_CANT_CHANGE_DONATE: '§cYou cannot change rank of this player'
 GROUP_PLAYER_ALREADY_DEFAULT: '§cThis player is not donater'
 GROUP_PLAYER_GROUP_CHANGED: '§e%s§es §egroup set to %s'
+YOU_CANT_IGNORE_YOURSELF: '§cYou cannot ignore yourself'
+ALREADY_AT_LOBBY: '§cYou are already in hub'
+NO_LOBBY_FOUND: '§cLobby not found'
+REDIRECTED_TO_LOBBY: '§aYou were teleported to %s'
+DO_NOT_SPAM: ' §cℹ Do not flood!'
+DO_NOT_SEND_SIMILAR_MESSAGES: ' §cℹ Do not send similar messages'
+ONLINE_PLAYERS_ONLINE: '§6Server §8| §fTotal online of gamemode - §a%s §f%s'
+ONLINE_ALL_PLAYERS_ONLINE: '§6Server §8| §fTotal online - §a%s §f%s'
 GROUP_SET_FORMAT: '/group set <player name> <rank>'
 GROUP_INVALID: '§cYou entered invalid group. Available ranks: §fDEFAULT, GOLD, DIAMOND, EMERALD, MAGMA, SHULKER'
 
