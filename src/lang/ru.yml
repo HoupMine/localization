@@ -3055,303 +3055,248 @@ PROMO_ITEM_NAME: '§aСКИДКИ!'
 ACHIEVEMENT_DONE: '§eВыполнено'
 ACHIEVEMENT_NO_DONE: '§cНе выполнено'
 ACHIEVEMENT_PERCENT: '§7Выполнено: §c%s'
-# ISLAND_ACHIEVEMENT_NAME: 'Достижения'
-# ISLAND_ACHIEVEMENT_LORE:
-# - '§7Список всех достижений'
-# - '§7на этом режиме'
-# - ' '
-# - '§7Выполнено: §f%s§7/§c%s'
-# - ' '
-# - ' §e▸ Нажмите, чтобы открыть список'
-# ISLAND_ACHIEVEMENT_GUI_NAME: 'Настройки острова ▸ Достижения'
-# ISLAND_GENERATOR_UPGRADE: 'Улучшение генератора'
-# ISLAND_GENERATOR_UPGRADE_LEVEL:
-# - '§7Текущий уровень генератора: §a%s'
-# - '§7Максимальный уровень генератора: §c%s'
-# - '§7В данный момент он дает:'
-# ISLAND_GENERATOR_UPGRADE_MAX:
-# - '§7У вас максимальный уровень генератора: §a%s'
-# - '§7В данный момент он дает:'
-# ISLAND_GENERATOR_UPGRADE_LEVEL_CLICK:
-# - ''
-# - '§7Цена: §e%s'
-# - ''
-# - ' §e▸ Нажмите, чтобы купить'
-# ISLAND_BUY_BEACON_ALERT: '§6SkyBlock §8| §fИгрок %s §fкупил эффект маяка §7%s §fза §e%s §f%s'
-# ISLAND_BUY_GENERATOR: '§6SkyBlock §8| §fИгрок %s §fулучшил генератор для вашего острова до §a%s §fуровня'
-# ISLAND_DEFAULT_GENERATOR_LORE: 
-# - '§8 • §7100% булыжник'
-# ISLAND_FIRST_GENERATOR_LORE:
-# - '§8 • §73% угольная руда'
-# - '§8 • §71% железная руда'
-# - '§8 • §71% изумрудная руда'
-# ISLAND_SECOND_GENERATOR_LORE:
-# - '§8 • §73% угольная руда'
-# - '§8 • §71.5% железная руда'
-# - '§8 • §71% золотая руда'
-# - '§8 • §71% изумрудная руда'
-# ISLAND_THIRD_GENERATOR_LORE:
-# - '§8 • §73% угольная руда'
-# - '§8 • §71.5% железная руда'
-# - '§8 • §71% золотая руда'
-# - '§8 • §71% кварцевая руда'
-# - '§8 • §70.5% редстоун'
-# - '§8 • §71% изумрудная руда'
-# ISLAND_FOURTH_GENERATOR_LORE:
-# - '§8 • §74% угольная руда'
-# - '§8 • §72% железная руда'
-# - '§8 • §71.5% золотая руда'
-# - '§8 • §71% кварцевая руда'
-# - '§8 • §70.5% лазурит'
-# - '§8 • §70.5% редстоун'
-# - '§8 • §71% изумрудная руда'
-# ISLAND_FIFTH_GENERATOR_LORE:
-# - '§8 • §75% угольная руда'
-# - '§8 • §72.5% железная руда'
-# - '§8 • §71.5% золотая руда'
-# - '§8 • §71% кварцевая руда'
-# - '§8 • §70.5% алмазная руда'
-# - '§8 • §70.5% редстоун'
-# - '§8 • §70.5% лазурит'
-# - '§8 • §71% изумрудная руда'
-# ISLAND_SIXTH_GENERATOR_LORE:
-# - '§8 • §76% угольная руда'
-# - '§8 • §72.5% железная руда'
-# - '§8 • §72% золотая руда'
-# - '§8 • §71% кварцевая руда'
-# - '§8 • §70.5% редстоун'
-# - '§8 • §70.5% лазурит'
-# - '§8 • §71% алмазная руда'
-# - '§8 • §71% изумрудная руда'
+ISLAND_ACHIEVEMENT_NAME: 'Достижения'
+ISLAND_ACHIEVEMENT_LORE:
+- '§7Список всех достижений'
+- '§7на этом режиме'
+- ' '
+- '§7Выполнено: §f%s§7/§c%s'
+- ' '
+- ' §e▸ Нажмите, чтобы открыть список'
+ISLAND_ACHIEVEMENT_GUI_NAME: 'Настройки острова ▸ Достижения'
+ISLAND_GENERATOR_UPGRADE: 'Улучшение генератора'
+ISLAND_GENERATOR_UPGRADE_LEVEL:
+- '§7Текущий уровень генератора: §a%s'
+- '§7Максимальный уровень генератора: §c%s'
+- '§7В данный момент он дает:'
+ISLAND_GENERATOR_UPGRADE_MAX:
+- '§7У вас максимальный уровень генератора: §a%s'
+- '§7В данный момент он дает:'
+ISLAND_GENERATOR_UPGRADE_LEVEL_CLICK:
+- ''
+- '§7Цена: §e%s'
+- ''
+- ' §e▸ Нажмите, чтобы купить'
+ISLAND_BUY_BEACON_ALERT: '§6SkyBlock §8| §fИгрок %s §fкупил эффект маяка §7%s §fза §e%s §f%s'
+ISLAND_BUY_GENERATOR: '§6SkyBlock §8| §fИгрок %s §fулучшил генератор для вашего острова до §a%s §fуровня'
+ISLAND_DEFAULT_GENERATOR_LORE: 
+- '§8 • §7100% булыжник'
+ISLAND_FIRST_GENERATOR_LORE:
+- '§8 • §73% угольная руда'
+- '§8 • §71% железная руда'
+- '§8 • §71% изумрудная руда'
+ISLAND_SECOND_GENERATOR_LORE:
+- '§8 • §73% угольная руда'
+- '§8 • §71.5% железная руда'
+- '§8 • §71% золотая руда'
+- '§8 • §71% изумрудная руда'
+ISLAND_THIRD_GENERATOR_LORE:
+- '§8 • §73% угольная руда'
+- '§8 • §71.5% железная руда'
+- '§8 • §71% золотая руда'
+- '§8 • §71% кварцевая руда'
+- '§8 • §70.5% редстоун'
+- '§8 • §71% изумрудная руда'
+ISLAND_FOURTH_GENERATOR_LORE:
+- '§8 • §74% угольная руда'
+- '§8 • §72% железная руда'
+- '§8 • §71.5% золотая руда'
+- '§8 • §71% кварцевая руда'
+- '§8 • §70.5% лазурит'
+- '§8 • §70.5% редстоун'
+- '§8 • §71% изумрудная руда'
+ISLAND_FIFTH_GENERATOR_LORE:
+- '§8 • §75% угольная руда'
+- '§8 • §72.5% железная руда'
+- '§8 • §71.5% золотая руда'
+- '§8 • §71% кварцевая руда'
+- '§8 • §70.5% алмазная руда'
+- '§8 • §70.5% редстоун'
+- '§8 • §70.5% лазурит'
+- '§8 • §71% изумрудная руда'
+ISLAND_SIXTH_GENERATOR_LORE:
+- '§8 • §76% угольная руда'
+- '§8 • §72.5% железная руда'
+- '§8 • §72% золотая руда'
+- '§8 • §71% кварцевая руда'
+- '§8 • §70.5% редстоун'
+- '§8 • §70.5% лазурит'
+- '§8 • §71% алмазная руда'
+- '§8 • §71% изумрудная руда'
 
-# ISLAND_NETHER_MINE_ERROR: '§cВы не можете рыть блоки в адской шахте, пока не приобретете улучшение "АД"'
-# ISLAND_MINE_UPDATE_NETHER: '§fАвтошахта обновлена §7/warp minenether'
+ISLAND_NETHER_MINE_ERROR: '§cВы не можете рыть блоки в адской шахте, пока не приобретете улучшение "АД"'
+ISLAND_MINE_UPDATE_NETHER: '§fАвтошахта обновлена §7/warp minenether'
 
-# ISLAND_BASALT_GENERATOR_UPGRADE: 'Улучшение генератора базальта'
-# ISLAND_BUY_BASALT_GENERATOR: '§6SkyBlock §8| §fИгрок %s §fулучшил базальтовый генератор для вашего острова до §a%s §fуровня'
-# ISLAND_BASALT_DEFAULT_GENERATOR_LORE: 
-# - '§8 • §7100% базальт'
-# ISLAND_BASALT_FIRST_GENERATOR_LORE:
-# - '§8 • §710% Незерак'
-# - '§8 • §70.5% Плачущий обсидиан'
-# ISLAND_BASALT_SECOND_GENERATOR_LORE:
-# - '§8 • §712.5% Незерак'
-# - '§8 • §70.5% Плачущий обсидиан'
-# - '§8 • §72% Незерская золотая руда'
-# ISLAND_BASALT_THIRD_GENERATOR_LORE:
-# - '§8 • §715% Незерак'
-# - '§8 • §70.5% Плачущий обсидиан'
-# - '§8 • §74% Незерская золотая руда'
-# - '§8 • §71.5% Кварцевая руда'
-# ISLAND_BASALT_FOURTH_GENERATOR_LORE:
-# - '§8 • §717.5% Незерак'
-# - '§8 • §70.5% Плачущий обсидиан'
-# - '§8 • §76% Незерская золотая руда'
-# - '§8 • §73% Кварцевая руда'
-# - '§8 • §70.01% Древние обломки'
-# ISLAND_BASALT_FIFTH_GENERATOR_LORE:
-# - '§8 • §720% Незерак'
-# - '§8 • §70.5% Плачущий обсидиан'
-# - '§8 • §78% Незерская золотая руда'
-# - '§8 • §74.5% Кварцевая руда'
-# - '§8 • §70.02% Древние обломки'
+ISLAND_BASALT_GENERATOR_UPGRADE: 'Улучшение генератора базальта'
+ISLAND_BUY_BASALT_GENERATOR: '§6SkyBlock §8| §fИгрок %s §fулучшил базальтовый генератор для вашего острова до §a%s §fуровня'
+ISLAND_BASALT_DEFAULT_GENERATOR_LORE: 
+- '§8 • §7100% базальт'
+ISLAND_BASALT_FIRST_GENERATOR_LORE:
+- '§8 • §710% Незерак'
+- '§8 • §70.5% Плачущий обсидиан'
+ISLAND_BASALT_SECOND_GENERATOR_LORE:
+- '§8 • §712.5% Незерак'
+- '§8 • §70.5% Плачущий обсидиан'
+- '§8 • §72% Незерская золотая руда'
+ISLAND_BASALT_THIRD_GENERATOR_LORE:
+- '§8 • §715% Незерак'
+- '§8 • §70.5% Плачущий обсидиан'
+- '§8 • §74% Незерская золотая руда'
+- '§8 • §71.5% Кварцевая руда'
+ISLAND_BASALT_FOURTH_GENERATOR_LORE:
+- '§8 • §717.5% Незерак'
+- '§8 • §70.5% Плачущий обсидиан'
+- '§8 • §76% Незерская золотая руда'
+- '§8 • §73% Кварцевая руда'
+- '§8 • §70.01% Древние обломки'
+ISLAND_BASALT_FIFTH_GENERATOR_LORE:
+- '§8 • §720% Незерак'
+- '§8 • §70.5% Плачущий обсидиан'
+- '§8 • §78% Незерская золотая руда'
+- '§8 • §74.5% Кварцевая руда'
+- '§8 • §70.02% Древние обломки'
 
-# ISLAND_BASALT_GENERATOR_UPGRADE_MAX:
-# - '§7У вас максимальный уровень генератора: §a%s'
-# - '§7В данный момент он дает:'
+ISLAND_BASALT_GENERATOR_UPGRADE_MAX:
+- '§7У вас максимальный уровень генератора: §a%s'
+- '§7В данный момент он дает:'
 
-# ISLAND_PROFILE_BIOME_NETHER_NAME: 'Выбор адского биома'
-# ISLAND_PROFILE_BIOME_NETHER_LORE:
-# - ' '
-# - '§7Установка и покупка новых адских биомов'
-# - ' '
-# - '§cВНИМАНИЕ! Покупать и менять биомы'
-# - '§cострова может только владелец или со-владелец'
-# - ' '
-# - '§e▸ Нажмите, чтобы открыть настройки биома'
+ISLAND_PROFILE_BIOME_NETHER_NAME: 'Выбор адского биома'
+ISLAND_PROFILE_BIOME_NETHER_LORE:
+- ' '
+- '§7Установка и покупка новых адских биомов'
+- ' '
+- '§cВНИМАНИЕ! Покупать и менять биомы'
+- '§cострова может только владелец или со-владелец'
+- ' '
+- '§e▸ Нажмите, чтобы открыть настройки биома'
 
-# ISLAND_BIOME_NETHER_WASTES_NAME: 'Незерские пустоши'
-# ISLAND_BIOME_NETHER_WASTES_LORE:
-# - ' '
+ISLAND_BIOME_NETHER_WASTES_NAME: 'Незерские пустоши'
+ISLAND_BIOME_NETHER_WASTES_LORE:
+- ' '
 
-# ISLAND_BIOME_BASALT_DELTAS_NAME: 'Базальтовые дельты'
-# ISLAND_BIOME_BASALT_DELTAS_LORE:
-# - ' '
+ISLAND_BIOME_BASALT_DELTAS_NAME: 'Базальтовые дельты'
+ISLAND_BIOME_BASALT_DELTAS_LORE:
+- ' '
 
-# ISLAND_BIOME_SOUL_SAND_VALLEY_NAME: 'Долина песка душ'
-# ISLAND_BIOME_SOUL_SAND_VALLEY_LORE:
-# - ' '
+ISLAND_BIOME_SOUL_SAND_VALLEY_NAME: 'Долина песка душ'
+ISLAND_BIOME_SOUL_SAND_VALLEY_LORE:
+- ' '
 
-# ISLAND_BIOME_WARPED_FOREST_NAME: 'Искаженный лес'
-# ISLAND_BIOME_WARPED_FOREST_LORE:
-# - ' '
+ISLAND_BIOME_WARPED_FOREST_NAME: 'Искаженный лес'
+ISLAND_BIOME_WARPED_FOREST_LORE:
+- ' '
 
-# ISLAND_BIOME_CRIMSON_FOREST_NAME: 'Багровый лес'
-# ISLAND_BIOME_CRIMSON_FOREST_LORE:
-# - ' '
-# #delete
-# # ISLAND_GENERATOR_GUI_NAME: 'Генераторы'
-# # ISLAND_GENERATOR_GUI_LORE:
-# # - ''
-# # - '§7Улучшение стандартного'
-# # - '§7генератора булыжника'
-# # - '§7на вашем острове'
-# # - ''
-# # - '§7Активный генератор:'
-# # - ' §f%s'
-# # - ''
-# # - ' §e▸ Нажмите, чтобы открыть меню'
-# # ISLAND_GENERATOR_LORE_PRICE:
-# # - '§7Цена: §e%s'
-# # - '§cДанный генератор вам не доступен!'
-# # - ''
-# # - ' §e▸ Нажмите, чтобы купить генератор'
-# # ISLAND_GENERATOR_LORE_ENABLE: ' §e▸ Нажмите, чтобы активировать генератор'
-# # ISLAND_GENERATOR_LORE_ENABLED: '§fДанный генератор уже активирован'
-# # ISLAND_BUY_BEACON_ALERT: '§6SkyBlock §8| §fИгрок %s §fкупил эффект маяка §7%s §fза §e%s §f%s'
-# #delete
-# # ISLAND_BUY_GENERATOR: '§6SkyBlock §8| §fИгрок %s §fкупил генератор §a%s §fдля вашего острова за §a%s §f%s'
-# # ISLAND_CHANGE_GENERATOR: '§6SkyBlock §8| §fИгрок %s §fсменил активный генератор на §a%s'
-# # ISLAND_DEFAULT_GENERATOR_NAME: 'Стандартный'
-# # ISLAND_DEFAULT_GENERATOR_LORE:
-# # - '§8 • §7100% булыжник'
-# # ISLAND_FIRST_GENERATOR_NAME: 'Ресурсы'
-# # ISLAND_FIRST_GENERATOR_LORE:
-# # - '§8 • §72% песок'
-# # - '§8 • §72% гравий'
-# # - '§8 • §72% земля'
-# # - '§8 • §71% глина'
-# # - '§8 • §793% булыжник'
-# # ISLAND_SECOND_GENERATOR_NAME: 'Угольный'
-# # ISLAND_SECOND_GENERATOR_LORE:
-# # - '§8 • §73% угольная руда'
-# # - '§8 • §71% железная руда'
-# # - '§8 • §796% булыжник'
-# # ISLAND_THIRD_GENERATOR_NAME: 'Золотой'
-# # ISLAND_THIRD_GENERATOR_LORE:
-# # - '§8 • §71% железная руда'
-# # - '§8 • §73% золотая руда'
-# # - '§8 • §72% редстоун'
-# # - '§8 • §795% булыжник'
-# # ISLAND_FOURTH_GENERATOR_NAME: 'Алмазный'
-# # ISLAND_FOURTH_GENERATOR_LORE:
-# # - '§8 • §73% золотая руда'
-# # - '§8 • §71% алмазная руда'
-# # - '§8 • §796% булыжник'
-# # ISLAND_FIFTH_GENERATOR_NAME: 'Эмеральдовый'
-# # ISLAND_FIFTH_GENERATOR_LORE:
-# # - '§8 • §75% лазуритная руда'
-# # - '§8 • §74% редстоун'
-# # - '§8 • §71% изумрудная руда'
-# # - '§8 • §790% булыжник'
-# ACHIEVEMENT_COMPLETE: '§a§l§kX§r §6§lАЧИВКА ВЫПОЛНЕНА §a§l§kX§r'
-# INVENTORY_IS_FULL: '§cОшибка, ваш инвентарь заполнен'
-# ISLAND_ACHIEVEMENT_START_NAME: 'Старт'
-# ISLAND_ACHIEVEMENT_START_LORE:
-# - '§7Создать остров 1-й раз'
-# ISLAND_ACHIEVEMENT_RESTART_NAME: 'Пересоздать'
-# ISLAND_ACHIEVEMENT_RESTART_LORE:
-# - '§7Пересоздать свой остров'
-# ISLAND_ACHIEVEMENT_CRAFT_NAME: 'Скрафтить предметы'
-# ISLAND_ACHIEVEMENT_COBBLESTONE_WALL_LORE:
-# - '§8 • §7Булыжная ограда §fх24'
-# ISLAND_ACHIEVEMENT_TORCH_LORE:
-# - '§8 • §7Факела §fх30'
-# ISLAND_ACHIEVEMENT_STONE_BRICKS_LORE:
-# - '§8 • §7Каменных кирпичей §fх64'
-# ISLAND_ACHIEVEMENT_ARMOR_STAND_LORE:
-# - '§8 • §7Стоек для брони §fх10'
-# ISLAND_ACHIEVEMENT_OAK_STAIRS_LORE:
-# - '§8 • §7Дубовых ступенек §fх20'
-# ISLAND_ACHIEVEMENT_OAK_SLAB_LORE:
-# - '§8 • §7Деревянных плит §fх20'
-# ISLAND_ACHIEVEMENT_OAK_SIGN_LORE:
-# - '§8 • §7Табличек §fх10'
-# ISLAND_ACHIEVEMENT_LEVER_LORE:
-# - '§8 • §7Рычагов §fх10'
-# ISLAND_ACHIEVEMENT_OAK_PRESSURE_PLATE_LORE:
-# - '§8 • §7Деревянных нажимных плит §fх10'
-# ISLAND_ACHIEVEMENT_STONE_PRESSURE_PLATE_LORE:
-# - '§8 • §7Каменных нажимных плит §fх10'
-# ISLAND_ACHIEVEMENT_OAK_BUTTON_LORE:
-# - '§8 • §7Деревянных кнопок §fх10'
-# ISLAND_ACHIEVEMENT_STONE_BUTTON_LORE:
-# - '§8 • §7Каменных кнопок §fх10'
-# ISLAND_ACHIEVEMENT_FERMENTED_SPIDER_EYE_LORE:
-# - '§8 • §7Ферментированных глаз пауков §fх10'
-# ISLAND_ACHIEVEMENT_PAINTING_LORE:
-# - '§8 • §7Картины §fх10'
-# ISLAND_ACHIEVEMENT_CARROT_ON_A_STICK_LORE:
-# - '§8 • §7Удочку с морковью §fх1'
-# ISLAND_ACHIEVEMENT_BREAD_LORE:
-# - '§8 • §7Хлеба §fх10'
-# ISLAND_ACHIEVEMENT_HAY_BLOCK_LORE:
-# - '§8 • §7Блоков сена §fх30'
-# ISLAND_ACHIEVEMENT_REDSTONE_LAMP_LORE:
-# - '§8 • §7Редстоуновых фонарей §fх10'
-# ISLAND_ACHIEVEMENT_PUMPKIN_PIE_LORE:
-# - '§8 • §7Тыквенных пирогов §fх8'
-# ISLAND_ACHIEVEMENT_BEETROOT_SOUP_LORE:
-# - '§8 • §7Свекольных супов §fх10'
-# ISLAND_ACHIEVEMENT_BRICK_LORE:
-# - '§8 • §7Блоков из красного кирпича §fх64'
-# ISLAND_ACHIEVEMENT_LAPIS_BLOCK_LORE:
-# - '§8 • §7Лазуритных блоков §fх64'
-# ISLAND_ACHIEVEMENT_WHITE_CONCRETE_POWDER_LORE:
-# - '§8 • §7Цемента §fх8'
-# ISLAND_ACHIEVEMENT_REPEATER_LORE:
-# - '§8 • §7Повторителей §fх32'
-# ISLAND_ACHIEVEMENT_PISTON_LORE:
-# - '§8 • §7Поршней §fх10'
-# ISLAND_ACHIEVEMENT_COMPASS_LORE:
-# - '§8 • §7Компасов §fх5'
-# ISLAND_ACHIEVEMENT_TNT_LORE:
-# - '§8 • §7Динамит §fх10'
-# ISLAND_ACHIEVEMENT_QUARTZ_BLOCK_LORE:
-# - '§8 • §7Кварцевых блоков §fх64'
-# ISLAND_ACHIEVEMENT_COMPARATOR_LORE:
-# - '§8 • §7Компараторов §fх24'
-# ISLAND_ACHIEVEMENT_BEACON_LORE:
-# - '§8 • §7Маяк §fх1'
-# ISLAND_ACHIEVEMENT_SLIME_BLOCK_LORE:
-# - '§8 • §7Слаймовый блок §fх1'
-# ISLAND_ACHIEVEMENT_MAP_LORE:
-# - '§8 • §7Пустых карт §fх10'
-# ISLAND_ACHIEVEMENT_ENCHANTING_TABLE_LORE:
-# - '§8 • §7Чародейский стол §fх1'
-# ISLAND_ACHIEVEMENT_BOOKSHELF_LORE:
-# - '§8 • §7Книжных полок §fх32'
-# ISLAND_ACHIEVEMENT_BONE_BLOCK_LORE:
-# - '§8 • §7Костяных блоков §fх20'
-# ISLAND_ACHIEVEMENT_FURNACE_LORE:
-# - '§8 • §7Печь §fх1'
-# ISLAND_ACHIEVEMENT_GOLDEN_APPLE_LORE:
-# - '§8 • §7Золотое яблоко §fх1'
-# ISLAND_ACHIEVEMENT_BREAK_NAME: 'Сломать блоки'
-# ISLAND_ACHIEVEMENT_OBSIDIAN_LORE:
-# - '§8 • §7Обсидиан §fх32'
-# ISLAND_ACHIEVEMENT_FURNACE_NAME: 'Переплавить'
-# ISLAND_ACHIEVEMENT_GLASS_LORE:
-# - '§8 • §7Стекло §fх32'
-# ISLAND_ACHIEVEMENT_GOLD_INGOT_LORE:
-# - '§8 • §7Золотых слитков §fх64'
-# ISLAND_ACHIEVEMENT_IRON_INGOT_LORE:
-# - '§8 • §7Железных слитков §fх64'
-# ISLAND_ACHIEVEMENT_BAKED_POTATO_LORE:
-# - '§8 • §7Картошки §fх32'
-# ISLAND_ACHIEVEMENT_GENERATOR_NAME: 'Создать генератор'
-# ISLAND_ACHIEVEMENT_GENERATOR_LORE:
-# - '§7Постройте генератор булыжника'
-# - '§7и добудьте булыжник'
-# ISLAND_ACHIEVEMENT_BREED_NAME: 'Размножьте'
-# ISLAND_ACHIEVEMENT_COW_LORE:
-# - '§8 • §7Коров §fх2'
-# ISLAND_ACHIEVEMENT_SHEEP_LORE:
-# - '§8 • §7Овец §fх2'
-# ISLAND_ACHIEVEMENT_CHICKEN_LORE:
-# - '§8 • §7Куриц §fх2'
-# ISLAND_ACHIEVEMENT_PIG_LORE:
-# - '§8 • §7Свиней §fх2'
+ISLAND_BIOME_CRIMSON_FOREST_NAME: 'Багровый лес'
+ISLAND_BIOME_CRIMSON_FOREST_LORE:
+- ' '
+ACHIEVEMENT_COMPLETE: '§a§l§kX§r §6§lАЧИВКА ВЫПОЛНЕНА §a§l§kX§r'
+INVENTORY_IS_FULL: '§cОшибка, ваш инвентарь заполнен'
+ISLAND_ACHIEVEMENT_START_NAME: 'Старт'
+ISLAND_ACHIEVEMENT_START_LORE:
+- '§7Создать остров 1-й раз'
+ISLAND_ACHIEVEMENT_RESTART_NAME: 'Пересоздать'
+ISLAND_ACHIEVEMENT_RESTART_LORE:
+- '§7Пересоздать свой остров'
+ISLAND_ACHIEVEMENT_CRAFT_NAME: 'Скрафтить предметы'
+ISLAND_ACHIEVEMENT_COBBLESTONE_WALL_LORE:
+- '§8 • §7Булыжная ограда §fх24'
+ISLAND_ACHIEVEMENT_TORCH_LORE:
+- '§8 • §7Факела §fх30'
+ISLAND_ACHIEVEMENT_STONE_BRICKS_LORE:
+- '§8 • §7Каменных кирпичей §fх64'
+ISLAND_ACHIEVEMENT_ARMOR_STAND_LORE:
+- '§8 • §7Стоек для брони §fх10'
+ISLAND_ACHIEVEMENT_OAK_STAIRS_LORE:
+- '§8 • §7Дубовых ступенек §fх20'
+ISLAND_ACHIEVEMENT_OAK_SLAB_LORE:
+- '§8 • §7Деревянных плит §fх20'
+ISLAND_ACHIEVEMENT_OAK_SIGN_LORE:
+- '§8 • §7Табличек §fх10'
+ISLAND_ACHIEVEMENT_LEVER_LORE:
+- '§8 • §7Рычагов §fх10'
+ISLAND_ACHIEVEMENT_OAK_PRESSURE_PLATE_LORE:
+- '§8 • §7Деревянных нажимных плит §fх10'
+ISLAND_ACHIEVEMENT_STONE_PRESSURE_PLATE_LORE:
+- '§8 • §7Каменных нажимных плит §fх10'
+ISLAND_ACHIEVEMENT_OAK_BUTTON_LORE:
+- '§8 • §7Деревянных кнопок §fх10'
+ISLAND_ACHIEVEMENT_STONE_BUTTON_LORE:
+- '§8 • §7Каменных кнопок §fх10'
+ISLAND_ACHIEVEMENT_FERMENTED_SPIDER_EYE_LORE:
+- '§8 • §7Ферментированных глаз пауков §fх10'
+ISLAND_ACHIEVEMENT_PAINTING_LORE:
+- '§8 • §7Картины §fх10'
+ISLAND_ACHIEVEMENT_CARROT_ON_A_STICK_LORE:
+- '§8 • §7Удочку с морковью §fх1'
+ISLAND_ACHIEVEMENT_BREAD_LORE:
+- '§8 • §7Хлеба §fх10'
+ISLAND_ACHIEVEMENT_HAY_BLOCK_LORE:
+- '§8 • §7Блоков сена §fх30'
+ISLAND_ACHIEVEMENT_REDSTONE_LAMP_LORE:
+- '§8 • §7Редстоуновых фонарей §fх10'
+ISLAND_ACHIEVEMENT_PUMPKIN_PIE_LORE:
+- '§8 • §7Тыквенных пирогов §fх8'
+ISLAND_ACHIEVEMENT_BEETROOT_SOUP_LORE:
+- '§8 • §7Свекольных супов §fх10'
+ISLAND_ACHIEVEMENT_BRICK_LORE:
+- '§8 • §7Блоков из красного кирпича §fх64'
+ISLAND_ACHIEVEMENT_LAPIS_BLOCK_LORE:
+- '§8 • §7Лазуритных блоков §fх64'
+ISLAND_ACHIEVEMENT_WHITE_CONCRETE_POWDER_LORE:
+- '§8 • §7Цемента §fх8'
+ISLAND_ACHIEVEMENT_REPEATER_LORE:
+- '§8 • §7Повторителей §fх32'
+ISLAND_ACHIEVEMENT_PISTON_LORE:
+- '§8 • §7Поршней §fх10'
+ISLAND_ACHIEVEMENT_COMPASS_LORE:
+- '§8 • §7Компасов §fх5'
+ISLAND_ACHIEVEMENT_TNT_LORE:
+- '§8 • §7Динамит §fх10'
+ISLAND_ACHIEVEMENT_QUARTZ_BLOCK_LORE:
+- '§8 • §7Кварцевых блоков §fх64'
+ISLAND_ACHIEVEMENT_COMPARATOR_LORE:
+- '§8 • §7Компараторов §fх24'
+ISLAND_ACHIEVEMENT_BEACON_LORE:
+- '§8 • §7Маяк §fх1'
+ISLAND_ACHIEVEMENT_SLIME_BLOCK_LORE:
+- '§8 • §7Слаймовый блок §fх1'
+ISLAND_ACHIEVEMENT_MAP_LORE:
+- '§8 • §7Пустых карт §fх10'
+ISLAND_ACHIEVEMENT_ENCHANTING_TABLE_LORE:
+- '§8 • §7Чародейский стол §fх1'
+ISLAND_ACHIEVEMENT_BOOKSHELF_LORE:
+- '§8 • §7Книжных полок §fх32'
+ISLAND_ACHIEVEMENT_BONE_BLOCK_LORE:
+- '§8 • §7Костяных блоков §fх20'
+ISLAND_ACHIEVEMENT_FURNACE_LORE:
+- '§8 • §7Печь §fх1'
+ISLAND_ACHIEVEMENT_GOLDEN_APPLE_LORE:
+- '§8 • §7Золотое яблоко §fх1'
+ISLAND_ACHIEVEMENT_BREAK_NAME: 'Сломать блоки'
+ISLAND_ACHIEVEMENT_OBSIDIAN_LORE:
+- '§8 • §7Обсидиан §fх32'
+ISLAND_ACHIEVEMENT_FURNACE_NAME: 'Переплавить'
+ISLAND_ACHIEVEMENT_GLASS_LORE:
+- '§8 • §7Стекло §fх32'
+ISLAND_ACHIEVEMENT_GOLD_INGOT_LORE:
+- '§8 • §7Золотых слитков §fх64'
+ISLAND_ACHIEVEMENT_IRON_INGOT_LORE:
+- '§8 • §7Железных слитков §fх64'
+ISLAND_ACHIEVEMENT_BAKED_POTATO_LORE:
+- '§8 • §7Картошки §fх32'
+ISLAND_ACHIEVEMENT_GENERATOR_NAME: 'Создать генератор'
+ISLAND_ACHIEVEMENT_GENERATOR_LORE:
+- '§7Постройте генератор булыжника'
+- '§7и добудьте булыжник'
+ISLAND_ACHIEVEMENT_BREED_NAME: 'Размножьте'
+ISLAND_ACHIEVEMENT_COW_LORE:
+- '§8 • §7Коров §fх2'
+ISLAND_ACHIEVEMENT_SHEEP_LORE:
+- '§8 • §7Овец §fх2'
+ISLAND_ACHIEVEMENT_CHICKEN_LORE:
+- '§8 • §7Куриц §fх2'
+ISLAND_ACHIEVEMENT_PIG_LORE:
+- '§8 • §7Свиней §fх2'
 LOBBY_SETTINGS_AUTO_MESSAGE_ANNOUNCE_NAME: 'Автосообщения'
 LOBBY_SETTINGS_AUTO_MESSAGE_ANNOUNCE_LORE:
 - '§7Позволяет включить или выключить'
