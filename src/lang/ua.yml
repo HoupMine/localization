@@ -1801,7 +1801,7 @@ PROFILE_MAIN_ITEM_COSMETIC_LORE:
 - '§cпрацювати на всіх аренах та іграх!'
 - ''
 - '§e▸ Відкрити меню покращень'
-DONATE_MENU_JOIN_MESSAGE_NAME: '§bСообщения §7[Выбор]''
+DONATE_MENU_JOIN_MESSAGE_NAME: '§bСообщения §7[Выбор]'
 DONATE_MENU_JOIN_MESSAGE_LORE:
 - '§7Уникальные сообщения которые'
 - '§7будут добавлены при вашем входе.'
