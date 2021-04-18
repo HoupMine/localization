@@ -5,7 +5,7 @@ CRASH_FORMAT: '/crash <нік гравця>'
 UNKNOWN_SUBCOMMAND: '§cЦієї команди не існує О_о'
 HELP_PAPER_FOR: '§e▸ Підкоманди для %s:'
 
-NO_PERMS: '§cУ вас немає прав'ш
+NO_PERMS: '§cУ вас немає прав'
 NO_PERMS_GROUP: '§cУ вас немає прав, купіть %s§c або вище'
 NO_PERMS_SHULKER_ONLY: '§cУ вас немає прав, дана функція тільки для §7§lSHULKER'
 
