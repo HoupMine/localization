@@ -202,7 +202,10 @@ WELCOME_TITLE: '§fДобро пожаловать!'
 TO_START_TITLE: '§fДо старта'
 
 SELECTOR_TEAM_NAME_INV: 'Выбор команды: %s'
+SELECTOR_TEAM_PLAYERS: '§7Игроки:'
+SELECTOR_TEAM_NO_PLAYERS: '§7Нет игроков...'
 
+PLAYER_ALIVE_GAME: '§fНа карте осталось §a%s§f %s'
 CRASH_ERROR_YOU: '§cТы не можешь сам себя крашнуть'
 CRASH_PLAYER: '§fВы крашнули игрока %s'
 
