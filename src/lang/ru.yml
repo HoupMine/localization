@@ -145,6 +145,64 @@ ITEMS_LOBBY_GADGETS_LORE:
 - '§7Различные вещи для'
 - '§7развлечения в лобби'
 
+SLOT_BUSY: '§cПростите, но вы были перемещены в лобби, ваше место занял §r%s'
+ERROR_TELEPORT: '§cОшибка телепортации в лобби'
+ONLY_DONATOR: '§cОшибка, на арене только донатеры'
+ARENA_BUSY: '§cАрена заполнена, не хватает слотов? Купите §a§lEMERALD§c или выше'
+ARENA_START: '§cИгра начинается...'
+ARENA_RESTART: '§cСервер перезагружается...'
+
+LOADING: '§cЗагружается...'
+
+JOIN_GAMER_ARENA: '%s§f зашел в игру (§a%s§f/§a%s§f)'
+QUIT_GAMER_ARENA: '%s§f покинул игру (§c%s§f/§a%s§f)'
+ERROR_START_GAMER_ARENA: '§cОшибка, не хватает игроков для старта'
+START_GAME_ARENA: '§fИгра начнется через §a%s §f%s'
+
+GLOBAL_TEAM_GAME_CHAT_FORMAT: ' §8[§cВсем§8] '
+LOCAL_TEAM_GAME_CHAT_FORMAT: ' §8[§aКоманде§8] '
+
+TEAM_GAME_GLOBAL_CHAT_FORMAT: ' §8[%sВсем§8] '
+TEAM_GAME_LOCAL_CHAT_FORMAT: ' §8[%sКоманде§8] '
+
+TEAM_NO_TEAM: '§c§lВнимание! §cОбразование союзов из нескольких команд запрещено.'
+SOLO_NO_TEAM: '§c§lВнимание! §cКомандная игра запрещена на Solo режиме.'
+TEAM_IS_BANABLE: '§cКомандная игра запрещена у нас. Вы были исключены из игры'
+
+RESTART_ARENA_MSG: '§cРестарт арены, через 5 секунд вы будете перемещены в лобби'
+
+WIN_PLAYER_BOARD: 'Победил игрок'
+WIN_TEAM_BOARD: 'Победила команда'
+
+SPECTATOR_SETTINGS_GUI_NAME: 'Настройки наблюдателя'
+SPECTATOR_SETTINGS_SPEED: 'Скорость'
+SPECTATOR_SETTINGS_NO_SPEED: 'Без скорости'
+SPECTATOR_SETTINGS_FLY_ON: '§aВключить постоянный полет'
+SPECTATOR_SETTINGS_FLY_OFF: '§cВыключить постоянный полет'
+SPECTATOR_SETTINGS_VISION_OFF: '§cВыключить ночное видение'
+SPECTATOR_SETTINGS_VISION_ON: '§aВключить ночное видение'
+SPECTATOR_SETTINGS_HIDE: '§cСкрыть наблюдателей'
+SPECTATOR_SETTINGS_SHOW: '§aПоказать наблюдателей'
+
+SPECTATOR_MENU_NAME: 'Телепортер'
+
+SPECTATOR_PERK_LORE: '§7Выбранный навык: §a%s'
+SPECTATOR_NO_PERK_LORE: '§cНе выбран'
+SPECTATOR_TEAM_LORE: '§7Команда: %s'
+SPECTATOR_KILLS_LORE: '§7Убийств: §c%s'
+SPECTATOR_MAIN_LORE:
+- '§7Здоровье: §e%s'
+- '§7Голод: §e%s'
+- ''
+- '§e▸ ЛКМ, чтобы телепортироваться'
+- '§e▸ ПКМ, чтобы наблюдать от 1-ого лица'
+
+START_TITLE_MSG: 'СТАРТ'
+WELCOME_TITLE: '§fДобро пожаловать!'
+TO_START_TITLE: '§fДо старта'
+
+SELECTOR_TEAM_NAME_INV: 'Выбор команды: %s'
+
 CRASH_ERROR_YOU: '§cТы не можешь сам себя крашнуть'
 CRASH_PLAYER: '§fВы крашнули игрока %s'
 
