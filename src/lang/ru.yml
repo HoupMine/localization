@@ -2969,6 +2969,37 @@ ITEMS_GUI_CONFIRMATION_LORE:
 ITEMS_GUI_COST_FORMAT: '§7Цена: %s %s'
 ITEMS_GUI_DISCOUNTED_COST_FORMAT: '§7Цена (со скидкой): %s %s'
 
+GAME_END_BOARD_TITLE: '§fИгра окончена'
+GAME_END_BOARD_TITLE_WINNER: '§fПобедитель:'
+GAME_END_BOARD_TITLE_WINNERS: '§fПобедители:'
+TEAM_SELECTOR_EMPTY: '§7Игроков нет'
+TEAM_SELECTOR_PLAYERS: '§7Игроки в команде:'
+TEAM_SELECTOR_ALREADYIN:
+- ' '
+- '§c▸ Вы уже в этой команде'
+TEAM_SELECTOR_SELECT:
+- ' '
+- '§e▸ Нажмите, чтобы выбрать'
+TEAM_SELECTOR_FULL:
+- ' '
+- '§c▸ В команде нет мест'
+TEAM_NAME: 'Команда'
+TEAM_SELECTED: '§fВы выбрали команду %s'
+TEAM_SELECTOR_GUI_TITLE: 'Выбор команды'
+TEAM_RED: 'Красные'
+TEAM_BLUE: 'Синие'
+TEAM_GREEN: 'Зелёные'
+TEAM_YELLOW: 'Жёлтые'
+TEAM_LIGHT_GREEN: 'Салатовые'
+TEAM_PINK: 'Розовые'
+TEAM_AQUA: 'Голубые'
+TEAM_GRAY: 'Серые'
+TEAM_PURPLE: 'Фиолетовые'
+TEAM_DARK_AQUA: 'Бирюзовые'
+TEAM_WHITE: 'Белые'
+TEAM_ORANGE: 'Оранжевые'
+TEAM_SELECTOR_ENTRY: '%s [%s/%s]'
+
 COMPASS_ITEM_NAME: '§eТелепортер'
 COMPASS_ITEM_LORE:
 - '§7Используй его для телепортации к игрокам'
