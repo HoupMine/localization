@@ -1384,6 +1384,11 @@ PREFIX_CHANGE_LORE2:
 - ''
 - '§aПрефикс выбран'
 
+SPECTATOR_CAMERA_OFF: '§cВы покинули режим наблюдателя'
+SPECTATOR_CAMERA_TITLE: '§eРежим наблюдения'
+SPECTATOR_CAMERA_SUBTITLE: 'Наблюдаем за игроком: %s'
+SPECTATOR_CAMERA_ACTIONBAR: '§fНажмите §aSHIFT §fчтобы покинуть режим наблюдателя'
+
 #дата
 TIME_HOURS_1:
 - 'час'
