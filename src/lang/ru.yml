@@ -3022,8 +3022,8 @@ SPECTATOR_SETTING_CHANGED: '§6Наблюдение §8| §fСкорость п�
 SPECTATOR_SETTING_FLY_ON: '§6Наблюдение §8| §fВы включили постоянный полет'
 SPECTATOR_SETTING_FLY_OFF: '§6Наблюдение §8| §fВы выключили постоянный полет'
 
-SPECTATOR_SETTING_NOSPEED_NAME: '§cБез скорости'
-SPECTATOR_SETTING_NOSPEED_LORE:
+SPECTATOR_SETTING_NO_SPEED_NAME: '§cБез скорости'
+SPECTATOR_SETTING_NO_SPEED_LORE:
 - ' '
 - '§7Убирает скорость передвижения'
 SPECTATOR_SETTING_NO_FLY_NAME: '§aВключить постоянный полет'
