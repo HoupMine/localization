@@ -235,6 +235,8 @@ PLAYER_ALIVE_GAME: '§fНа карте осталось §a%s§f %s'
 CRASH_ERROR_YOU: '§cТы не можешь сам себя крашнуть'
 CRASH_PLAYER: '§fВы крашнули игрока %s'
 
+SPECTATOR_INVENTORY_SEE_GUI_TITLE: 'Инвентарь ► %s'
+
 FW: '§aСалют!'
 
 #Новый Год
@@ -246,6 +248,38 @@ HOLIDAY_HEAD_FOUND_COUNT: 'Найдено подарков: §a%s§f/§a%s'
 HOLIDAY_HEAD_FOUND_COUNT_BOARD: 'Найдено подарков: §a'
 HOLIDAY_COUNTDOWN: 'Новый Год через: §a'
 ENCHANT_TITLE: 'Чары'
+
+COMPASS_MESSAGE: '§fИгрок: %s      §fРасстояние: '
+COMPASS_MESSAGE_SPECTATOR: '§fБлижайший игрок: %s      §fРасстояние: §a%s'
+COMPASS_MODE_NEAREST_PLAYER: 'поиск ближайшего игрока'
+COMPASS_MODE_TEAMMATE: 'поиск ближайшего тиммейта'
+COMPASS_MODE_CHANGED: 'Режим локатора изменен на §e%s'
+
+LOCATOR_ITEM_NAME: '§aЛокатор'
+LOCATOR_ITEM_LORE:
+- '§7Используйте этот предмет, чтобы'
+- '§7находить ближайшего игрока'
+
+RESPAWN_TITLE: '§aВы возродились'
+RESPAWN_SUBTITLE: '§7Вы возродитесь через §c%s §7%s'
+DEATH_MSG_TITLE: '§cВы погибли'
+NO_LIMIT_MSG_ACTION_BAR: '%s §fи выше возраждаются быстрее!'
+
+JOIN_SPEC_MSG_TITLE: '§cИгра уже началась'
+JOIN_SPEC_MSG_SUBTITLE: '§7Вы можете только следить за игровым процессом'
+
+ERROR_COMMAND: '§cОшибка, пишите %s'
+ERROR_COMMAND_IN_GAME: '§cДанная команда недоступна во время игры'
+ERROR_COMMAND_IN_LOBBY: '§cДанная команда доступна только во время игры'
+ERROR_TO_LOBBY: '§cОшибка при телепортации в лобби'
+CHANNEL_NOT_FOUND: '§cКанал %s не найден'
+
+YOU_REWARD_MSG: 'Вы заработали'
+HOLO_REWARD_MONEY: 'Заработано монет'
+HOLO_REWARD_STATS: 'Статистика за игру'
+HOLO_REWARD_MULTIPLAY: 'Множитель монет'
+
+GAME_SPECTATOR_MESSAGE: 'Вы погибли и теперь вы можете только наблюдать за игровым процессом.'
 
 ERROR_COMMAND: '§cОшибка, пишите %s'
 ERROR_COMMAND_IN_GAME: '§cДанная команда недоступна во время игры'
