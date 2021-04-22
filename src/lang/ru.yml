@@ -212,17 +212,6 @@ SPECTATOR_SETTINGS_GUI_NAME: 'Настройки наблюдателя'
 
 SPECTATOR_MENU_NAME: 'Телепортер'
 
-SPECTATOR_PERK_LORE: '§7Выбранный навык: §a%s'
-SPECTATOR_NO_PERK_LORE: '§cНе выбран'
-SPECTATOR_TEAM_LORE: '§7Команда: %s'
-SPECTATOR_KILLS_LORE: '§7Убийств: §c%s'
-SPECTATOR_MAIN_LORE:
-- '§7Здоровье: §e%s'
-- '§7Голод: §e%s'
-- ''
-- '§e▸ ЛКМ, чтобы телепортироваться'
-- '§e▸ ПКМ, чтобы наблюдать от 1-ого лица'
-
 START_TITLE_MSG: 'СТАРТ'
 WELCOME_TITLE: '§fДобро пожаловать!'
 TO_START_TITLE: '§fДо старта'
@@ -3009,6 +2998,7 @@ COMPASS_ITEM_NAME: '§eТелепортер'
 COMPASS_ITEM_LORE:
 - '§7Используй его для телепортации к игрокам'
 TELEPORTER_PLAYER_HEALTH: '§7Здоровье: §a%s§4❤'
+TELEPORTER_PLAYER_PERK: '§7Выбранное умение: §e%s'
 TELEPORTER_PLAYER_DISTANCE: '§7Расстояние: §a%s §7блоков'
 TELEPORTER_CLICK_TO_TELEPORT:
 - ' '
